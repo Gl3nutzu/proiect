@@ -1,0 +1,3958 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:53:41] filterscripts = ""  (string)
+[20:53:41] 
+[20:53:41] Server Plugins
+[20:53:41] --------------
+[20:53:41]  Loading plugin: regex
+[20:53:42] 
+
+[20:53:42] ______________________________________
+
+[20:53:42]  Regular Expression Plugin v0.2.1 loaded
+[20:53:42] ______________________________________
+
+[20:53:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:53:42] ______________________________________
+
+[20:53:42]   Loaded.
+[20:53:42]  Loading plugin: mysql
+[20:53:42]  >> plugin.mysql: R39-6 successfully loaded.
+[20:53:42]   Loaded.
+[20:53:42]  Loading plugin: sscanf
+[20:53:42] 
+
+[20:53:42]  ===============================
+
+[20:53:42]       sscanf plugin loaded.     
+
+[20:53:42]          Version:  2.8.1        
+
+[20:53:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:53:42]  ===============================
+
+[20:53:42]   Loaded.
+[20:53:42]  Loading plugin: crashdetect
+[20:53:43]   CrashDetect v4.18.1 is OK.
+[20:53:43]   Loaded.
+[20:53:43]  Loading plugin: streamer
+[20:53:43]   Loaded.
+[20:53:43]  Loading plugin: Whirlpool
+[20:53:43]  
+[20:53:43]  ==================
+[20:53:43]  
+[20:53:43]   Whirlpool loaded
+[20:53:43]  
+[20:53:43]  ==================
+[20:53:43]  
+[20:53:43]   Loaded.
+[20:53:43]  Loaded 6 plugins.
+
+[20:53:43] 
+[20:53:43] Filterscripts
+[20:53:43] ---------------
+[20:53:43]   Loaded 0 filterscripts.
+
+[20:53:43]  
+[20:53:43]  
+[20:53:43] [MYSQL] Succesfuly connected!
+[20:53:43] 
+----------------------------------
+[20:53:43]  RedGame RPG Gamemode by Gl3nutzu 
+[20:53:43] ----------------------------------
+
+[20:53:43] Number of vehicle models: 0
+[20:53:45] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:54:05] filterscripts = ""  (string)
+[20:54:05] 
+[20:54:05] Server Plugins
+[20:54:05] --------------
+[20:54:05]  Loading plugin: regex
+[20:54:05] 
+
+[20:54:05] ______________________________________
+
+[20:54:05]  Regular Expression Plugin v0.2.1 loaded
+[20:54:05] ______________________________________
+
+[20:54:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:54:05] ______________________________________
+
+[20:54:05]   Loaded.
+[20:54:05]  Loading plugin: mysql
+[20:54:05]  >> plugin.mysql: R39-6 successfully loaded.
+[20:54:05]   Loaded.
+[20:54:05]  Loading plugin: sscanf
+[20:54:05] 
+
+[20:54:05]  ===============================
+
+[20:54:05]       sscanf plugin loaded.     
+
+[20:54:05]          Version:  2.8.1        
+
+[20:54:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:54:05]  ===============================
+
+[20:54:05]   Loaded.
+[20:54:05]  Loading plugin: crashdetect
+[20:54:05]   CrashDetect v4.18.1 is OK.
+[20:54:05]   Loaded.
+[20:54:05]  Loading plugin: streamer
+[20:54:05]   Loaded.
+[20:54:05]  Loading plugin: Whirlpool
+[20:54:05]  
+[20:54:05]  ==================
+[20:54:05]  
+[20:54:05]   Whirlpool loaded
+[20:54:05]  
+[20:54:05]  ==================
+[20:54:05]  
+[20:54:05]   Loaded.
+[20:54:05]  Loaded 6 plugins.
+
+[20:54:05] 
+[20:54:05] Filterscripts
+[20:54:05] ---------------
+[20:54:05]   Loaded 0 filterscripts.
+
+[20:54:05]  
+[20:54:05]  
+[20:54:05] [MYSQL] Succesfuly connected!
+[20:54:05] 
+----------------------------------
+[20:54:05]  RedGame RPG Gamemode by Gl3nutzu 
+[20:54:05] ----------------------------------
+
+[20:54:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:55:56] filterscripts = ""  (string)
+[20:55:56] 
+[20:55:56] Server Plugins
+[20:55:56] --------------
+[20:55:56]  Loading plugin: regex
+[20:55:56] 
+
+[20:55:56] ______________________________________
+
+[20:55:56]  Regular Expression Plugin v0.2.1 loaded
+[20:55:56] ______________________________________
+
+[20:55:56]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:55:56] ______________________________________
+
+[20:55:56]   Loaded.
+[20:55:56]  Loading plugin: mysql
+[20:55:56]  >> plugin.mysql: R39-6 successfully loaded.
+[20:55:56]   Loaded.
+[20:55:56]  Loading plugin: sscanf
+[20:55:56] 
+
+[20:55:56]  ===============================
+
+[20:55:56]       sscanf plugin loaded.     
+
+[20:55:56]          Version:  2.8.1        
+
+[20:55:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:55:56]  ===============================
+
+[20:55:56]   Loaded.
+[20:55:56]  Loading plugin: crashdetect
+[20:55:56]   CrashDetect v4.18.1 is OK.
+[20:55:56]   Loaded.
+[20:55:56]  Loading plugin: streamer
+[20:55:56]   Loaded.
+[20:55:56]  Loading plugin: Whirlpool
+[20:55:56]  
+[20:55:56]  ==================
+[20:55:56]  
+[20:55:56]   Whirlpool loaded
+[20:55:56]  
+[20:55:56]  ==================
+[20:55:56]  
+[20:55:56]   Loaded.
+[20:55:56]  Loaded 6 plugins.
+
+[20:55:56] 
+[20:55:56] Filterscripts
+[20:55:56] ---------------
+[20:55:56]   Loaded 0 filterscripts.
+
+[20:55:56]  
+[20:55:56]  
+[20:55:56] [MYSQL] Succesfuly connected!
+[20:55:56] 
+----------------------------------
+[20:55:56]  RedGame RPG Gamemode by Gl3nutzu 
+[20:55:56] ----------------------------------
+
+[20:55:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:55:59] filterscripts = ""  (string)
+[20:55:59] 
+[20:55:59] Server Plugins
+[20:55:59] --------------
+[20:55:59]  Loading plugin: regex
+[20:55:59] 
+
+[20:55:59] ______________________________________
+
+[20:55:59]  Regular Expression Plugin v0.2.1 loaded
+[20:55:59] ______________________________________
+
+[20:55:59]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:55:59] ______________________________________
+
+[20:55:59]   Loaded.
+[20:55:59]  Loading plugin: mysql
+[20:55:59]  >> plugin.mysql: R39-6 successfully loaded.
+[20:55:59]   Loaded.
+[20:55:59]  Loading plugin: sscanf
+[20:55:59] 
+
+[20:55:59]  ===============================
+
+[20:55:59]       sscanf plugin loaded.     
+
+[20:55:59]          Version:  2.8.1        
+
+[20:55:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:55:59]  ===============================
+
+[20:55:59]   Loaded.
+[20:55:59]  Loading plugin: crashdetect
+[20:55:59]   CrashDetect v4.18.1 is OK.
+[20:55:59]   Loaded.
+[20:55:59]  Loading plugin: streamer
+[20:55:59]   Loaded.
+[20:55:59]  Loading plugin: Whirlpool
+[20:55:59]  
+[20:55:59]  ==================
+[20:55:59]  
+[20:55:59]   Whirlpool loaded
+[20:55:59]  
+[20:55:59]  ==================
+[20:55:59]  
+[20:55:59]   Loaded.
+[20:55:59]  Loaded 6 plugins.
+
+[20:55:59] 
+[20:55:59] Filterscripts
+[20:55:59] ---------------
+[20:55:59]   Loaded 0 filterscripts.
+
+[20:56:00]  
+[20:56:00]  
+[20:56:00] [MYSQL] Succesfuly connected!
+[20:56:00] 
+----------------------------------
+[20:56:00]  RedGame RPG Gamemode by Gl3nutzu 
+[20:56:00] ----------------------------------
+
+[20:56:00] Number of vehicle models: 0
+[20:56:34] [connection] 127.0.0.1:60827 requests connection cookie.
+[20:56:35] [connection] incoming connection: 127.0.0.1:60827 id: 0
+[20:56:35] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:42] filterscripts = ""  (string)
+[21:21:42] 
+[21:21:42] Server Plugins
+[21:21:42] --------------
+[21:21:42]  Loading plugin: regex
+[21:21:42] 
+
+[21:21:42] ______________________________________
+
+[21:21:42]  Regular Expression Plugin v0.2.1 loaded
+[21:21:42] ______________________________________
+
+[21:21:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:21:42] ______________________________________
+
+[21:21:42]   Loaded.
+[21:21:42]  Loading plugin: mysql
+[21:21:42]  >> plugin.mysql: R39-6 successfully loaded.
+[21:21:42]   Loaded.
+[21:21:42]  Loading plugin: sscanf
+[21:21:42] 
+
+[21:21:42]  ===============================
+
+[21:21:42]       sscanf plugin loaded.     
+
+[21:21:42]          Version:  2.8.1        
+
+[21:21:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:21:42]  ===============================
+
+[21:21:42]   Loaded.
+[21:21:42]  Loading plugin: crashdetect
+[21:21:43]   CrashDetect v4.18.1 is OK.
+[21:21:43]   Loaded.
+[21:21:43]  Loading plugin: streamer
+[21:21:43]   Loaded.
+[21:21:43]  Loading plugin: Whirlpool
+[21:21:43]  
+[21:21:43]  ==================
+[21:21:43]  
+[21:21:43]   Whirlpool loaded
+[21:21:43]  
+[21:21:43]  ==================
+[21:21:43]  
+[21:21:43]   Loaded.
+[21:21:43]  Loaded 6 plugins.
+
+[21:21:43] 
+[21:21:43] Filterscripts
+[21:21:43] ---------------
+[21:21:43]   Loaded 0 filterscripts.
+
+[21:21:43]  
+[21:21:43]  
+[21:21:43] [MYSQL] Succesfuly connected!
+[21:21:43] 
+----------------------------------
+[21:21:43]  RedGame RPG Gamemode by Gl3nutzu 
+[21:21:43] ----------------------------------
+
+[21:21:43] Number of vehicle models: 0
+[21:22:00] [connection] 127.0.0.1:59194 requests connection cookie.
+[21:22:01] [connection] incoming connection: 127.0.0.1:59194 id: 0
+[21:22:01] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[21:22:34] [chat] [Gl3nutzu]: .admins
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:51:49] filterscripts = ""  (string)
+[21:51:49] 
+[21:51:49] Server Plugins
+[21:51:49] --------------
+[21:51:49]  Loading plugin: regex
+[21:51:49] 
+
+[21:51:49] ______________________________________
+
+[21:51:49]  Regular Expression Plugin v0.2.1 loaded
+[21:51:49] ______________________________________
+
+[21:51:49]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:51:49] ______________________________________
+
+[21:51:49]   Loaded.
+[21:51:49]  Loading plugin: mysql
+[21:51:50]  >> plugin.mysql: R39-6 successfully loaded.
+[21:51:50]   Loaded.
+[21:51:50]  Loading plugin: sscanf
+[21:51:50] 
+
+[21:51:50]  ===============================
+
+[21:51:50]       sscanf plugin loaded.     
+
+[21:51:50]          Version:  2.8.1        
+
+[21:51:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:51:50]  ===============================
+
+[21:51:50]   Loaded.
+[21:51:50]  Loading plugin: crashdetect
+[21:51:50]   CrashDetect v4.18.1 is OK.
+[21:51:50]   Loaded.
+[21:51:50]  Loading plugin: streamer
+[21:51:50]   Loaded.
+[21:51:50]  Loading plugin: Whirlpool
+[21:51:50]  
+[21:51:50]  ==================
+[21:51:50]  
+[21:51:50]   Whirlpool loaded
+[21:51:50]  
+[21:51:50]  ==================
+[21:51:50]  
+[21:51:50]   Loaded.
+[21:51:50]  Loaded 6 plugins.
+
+[21:51:50] 
+[21:51:50] Filterscripts
+[21:51:50] ---------------
+[21:51:50]   Loaded 0 filterscripts.
+
+[21:51:50]  
+[21:51:50]  
+[21:51:50] [MYSQL] Succesfuly connected!
+[21:51:50] 
+----------------------------------
+[21:51:50]  RedGame RPG Gamemode by Gl3nutzu 
+[21:51:50] ----------------------------------
+
+[21:51:50] Number of vehicle models: 0
+[21:52:09] [connection] 127.0.0.1:55081 requests connection cookie.
+[21:52:10] [connection] incoming connection: 127.0.0.1:55081 id: 0
+[21:52:10] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:56:05] filterscripts = ""  (string)
+[23:56:05] 
+[23:56:05] Server Plugins
+[23:56:05] --------------
+[23:56:05]  Loading plugin: regex
+[23:56:05] 
+
+[23:56:05] ______________________________________
+
+[23:56:05]  Regular Expression Plugin v0.2.1 loaded
+[23:56:05] ______________________________________
+
+[23:56:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:56:05] ______________________________________
+
+[23:56:05]   Loaded.
+[23:56:05]  Loading plugin: mysql
+[23:56:06]  >> plugin.mysql: R39-6 successfully loaded.
+[23:56:06]   Loaded.
+[23:56:06]  Loading plugin: sscanf
+[23:56:06] 
+
+[23:56:06]  ===============================
+
+[23:56:06]       sscanf plugin loaded.     
+
+[23:56:06]          Version:  2.8.1        
+
+[23:56:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:56:06]  ===============================
+
+[23:56:06]   Loaded.
+[23:56:06]  Loading plugin: crashdetect
+[23:56:06]   CrashDetect v4.18.1 is OK.
+[23:56:06]   Loaded.
+[23:56:06]  Loading plugin: streamer
+[23:56:06]   Loaded.
+[23:56:06]  Loading plugin: Whirlpool
+[23:56:06]  
+[23:56:06]  ==================
+[23:56:06]  
+[23:56:06]   Whirlpool loaded
+[23:56:06]  
+[23:56:06]  ==================
+[23:56:06]  
+[23:56:06]   Loaded.
+[23:56:06]  Loaded 6 plugins.
+
+[23:56:06] 
+[23:56:06] Filterscripts
+[23:56:06] ---------------
+[23:56:06]   Loaded 0 filterscripts.
+
+[23:56:07]  
+[23:56:07]  
+[23:56:08] [MYSQL] Succesfuly connected!
+[23:56:08] 
+----------------------------------
+[23:56:08]  RedGame RPG Gamemode by Gl3nutzu 
+[23:56:08] ----------------------------------
+
+[23:56:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:00:01] filterscripts = ""  (string)
+[00:00:01] 
+[00:00:01] Server Plugins
+[00:00:01] --------------
+[00:00:01]  Loading plugin: regex
+[00:00:01] 
+
+[00:00:01] ______________________________________
+
+[00:00:01]  Regular Expression Plugin v0.2.1 loaded
+[00:00:01] ______________________________________
+
+[00:00:01]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:00:01] ______________________________________
+
+[00:00:01]   Loaded.
+[00:00:01]  Loading plugin: mysql
+[00:00:01]  >> plugin.mysql: R39-6 successfully loaded.
+[00:00:01]   Loaded.
+[00:00:01]  Loading plugin: sscanf
+[00:00:01] 
+
+[00:00:01]  ===============================
+
+[00:00:01]       sscanf plugin loaded.     
+
+[00:00:01]          Version:  2.8.1        
+
+[00:00:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:00:01]  ===============================
+
+[00:00:01]   Loaded.
+[00:00:01]  Loading plugin: crashdetect
+[00:00:01]   CrashDetect v4.18.1 is OK.
+[00:00:01]   Loaded.
+[00:00:01]  Loading plugin: streamer
+[00:00:01]   Loaded.
+[00:00:01]  Loading plugin: Whirlpool
+[00:00:01]  
+[00:00:01]  ==================
+[00:00:01]  
+[00:00:01]   Whirlpool loaded
+[00:00:01]  
+[00:00:01]  ==================
+[00:00:01]  
+[00:00:01]   Loaded.
+[00:00:01]  Loaded 6 plugins.
+
+[00:00:01] 
+[00:00:01] Filterscripts
+[00:00:01] ---------------
+[00:00:01]   Loaded 0 filterscripts.
+
+[00:00:01]  
+[00:00:01]  
+[00:00:01] [MYSQL] Succesfuly connected!
+[00:00:01] 
+----------------------------------
+[00:00:01]  RedGame RPG Gamemode by Gl3nutzu 
+[00:00:01] ----------------------------------
+
+[00:00:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:21] filterscripts = ""  (string)
+[00:05:21] 
+[00:05:21] Server Plugins
+[00:05:21] --------------
+[00:05:21]  Loading plugin: regex
+[00:05:21] 
+
+[00:05:21] ______________________________________
+
+[00:05:21]  Regular Expression Plugin v0.2.1 loaded
+[00:05:21] ______________________________________
+
+[00:05:21]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:05:21] ______________________________________
+
+[00:05:21]   Loaded.
+[00:05:21]  Loading plugin: mysql
+[00:05:21]  >> plugin.mysql: R39-6 successfully loaded.
+[00:05:21]   Loaded.
+[00:05:21]  Loading plugin: sscanf
+[00:05:21] 
+
+[00:05:21]  ===============================
+
+[00:05:21]       sscanf plugin loaded.     
+
+[00:05:21]          Version:  2.8.1        
+
+[00:05:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:05:21]  ===============================
+
+[00:05:21]   Loaded.
+[00:05:21]  Loading plugin: crashdetect
+[00:05:21]   CrashDetect v4.18.1 is OK.
+[00:05:21]   Loaded.
+[00:05:21]  Loading plugin: streamer
+[00:05:21]   Loaded.
+[00:05:21]  Loading plugin: Whirlpool
+[00:05:21]  
+[00:05:21]  ==================
+[00:05:21]  
+[00:05:21]   Whirlpool loaded
+[00:05:21]  
+[00:05:21]  ==================
+[00:05:21]  
+[00:05:21]   Loaded.
+[00:05:21]  Loaded 6 plugins.
+
+[00:05:21] 
+[00:05:21] Filterscripts
+[00:05:21] ---------------
+[00:05:21]   Loaded 0 filterscripts.
+
+[00:05:21]  
+[00:05:21]  
+[00:05:21] [MYSQL] Succesfuly connected!
+[00:05:21] 
+----------------------------------
+[00:05:21]  RedGame RPG Gamemode by Gl3nutzu 
+[00:05:21] ----------------------------------
+
+[00:05:21] Number of vehicle models: 0
+[00:07:21] [connection] 127.0.0.1:55685 requests connection cookie.
+[00:07:22] [connection] incoming connection: 127.0.0.1:55685 id: 0
+[00:07:22] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[00:18:03] [death] Gl3nutzu died 54
+[00:18:24] [death] Gl3nutzu died 54
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:21:14] filterscripts = ""  (string)
+[00:21:14] 
+[00:21:14] Server Plugins
+[00:21:14] --------------
+[00:21:14]  Loading plugin: regex
+[00:21:14] 
+
+[00:21:14] ______________________________________
+
+[00:21:14]  Regular Expression Plugin v0.2.1 loaded
+[00:21:14] ______________________________________
+
+[00:21:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:21:14] ______________________________________
+
+[00:21:14]   Loaded.
+[00:21:14]  Loading plugin: mysql
+[00:21:14]  >> plugin.mysql: R39-6 successfully loaded.
+[00:21:14]   Loaded.
+[00:21:14]  Loading plugin: sscanf
+[00:21:14] 
+
+[00:21:14]  ===============================
+
+[00:21:14]       sscanf plugin loaded.     
+
+[00:21:14]          Version:  2.8.1        
+
+[00:21:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:21:14]  ===============================
+
+[00:21:14]   Loaded.
+[00:21:14]  Loading plugin: crashdetect
+[00:21:14]   CrashDetect v4.18.1 is OK.
+[00:21:14]   Loaded.
+[00:21:14]  Loading plugin: streamer
+[00:21:15]   Loaded.
+[00:21:15]  Loading plugin: Whirlpool
+[00:21:15]  
+[00:21:15]  ==================
+[00:21:15]  
+[00:21:15]   Whirlpool loaded
+[00:21:15]  
+[00:21:15]  ==================
+[00:21:15]  
+[00:21:15]   Loaded.
+[00:21:15]  Loaded 6 plugins.
+
+[00:21:15] 
+[00:21:15] Filterscripts
+[00:21:15] ---------------
+[00:21:15]   Loaded 0 filterscripts.
+
+[00:21:15]  
+[00:21:15]  
+[00:21:15] [MYSQL] Succesfuly connected!
+[00:21:15] 
+----------------------------------
+[00:21:15]  RedGame RPG Gamemode by Gl3nutzu 
+[00:21:15] ----------------------------------
+
+[00:21:15] Number of vehicle models: 0
+[00:21:19] [connection] 127.0.0.1:52289 requests connection cookie.
+[00:21:20] [connection] incoming connection: 127.0.0.1:52289 id: 0
+[00:21:20] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:39] filterscripts = ""  (string)
+[21:29:39] 
+[21:29:39] Server Plugins
+[21:29:39] --------------
+[21:29:39]  Loading plugin: regex
+[21:29:39] 
+
+[21:29:39] ______________________________________
+
+[21:29:39]  Regular Expression Plugin v0.2.1 loaded
+[21:29:39] ______________________________________
+
+[21:29:39]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:29:39] ______________________________________
+
+[21:29:39]   Loaded.
+[21:29:39]  Loading plugin: mysql
+[21:29:40]  >> plugin.mysql: R39-6 successfully loaded.
+[21:29:40]   Loaded.
+[21:29:40]  Loading plugin: sscanf
+[21:29:40] 
+
+[21:29:40]  ===============================
+
+[21:29:40]       sscanf plugin loaded.     
+
+[21:29:40]          Version:  2.8.1        
+
+[21:29:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:29:40]  ===============================
+
+[21:29:40]   Loaded.
+[21:29:40]  Loading plugin: crashdetect
+[21:29:40]   CrashDetect v4.18.1 is OK.
+[21:29:40]   Loaded.
+[21:29:40]  Loading plugin: streamer
+[21:29:41]   Loaded.
+[21:29:41]  Loading plugin: Whirlpool
+[21:29:41]  
+[21:29:41]  ==================
+[21:29:41]  
+[21:29:41]   Whirlpool loaded
+[21:29:41]  
+[21:29:41]  ==================
+[21:29:41]  
+[21:29:41]   Loaded.
+[21:29:41]  Loaded 6 plugins.
+
+[21:29:41] 
+[21:29:41] Filterscripts
+[21:29:41] ---------------
+[21:29:41]   Loaded 0 filterscripts.
+
+[21:29:41]  
+[21:29:41]  
+[21:29:41] [MYSQL] Succesfuly connected!
+[21:29:41] 
+----------------------------------
+[21:29:41]  RedGame RPG Gamemode by Gl3nutzu 
+[21:29:41] ----------------------------------
+
+[21:29:41] Number of vehicle models: 0
+[21:32:25] [connection] 127.0.0.1:60537 requests connection cookie.
+[21:32:26] [connection] incoming connection: 127.0.0.1:60537 id: 0
+[21:32:27] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:41:17] filterscripts = ""  (string)
+[13:41:17] 
+[13:41:17] Server Plugins
+[13:41:17] --------------
+[13:41:17]  Loading plugin: regex
+[13:41:17] 
+
+[13:41:17] ______________________________________
+
+[13:41:17]  Regular Expression Plugin v0.2.1 loaded
+[13:41:17] ______________________________________
+
+[13:41:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:41:17] ______________________________________
+
+[13:41:17]   Loaded.
+[13:41:17]  Loading plugin: mysql
+[13:41:18]  >> plugin.mysql: R39-6 successfully loaded.
+[13:41:18]   Loaded.
+[13:41:18]  Loading plugin: sscanf
+[13:41:18] 
+
+[13:41:18]  ===============================
+
+[13:41:18]       sscanf plugin loaded.     
+
+[13:41:18]          Version:  2.8.1        
+
+[13:41:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:41:18]  ===============================
+
+[13:41:18]   Loaded.
+[13:41:18]  Loading plugin: crashdetect
+[13:41:18]   CrashDetect v4.18.1 is OK.
+[13:41:18]   Loaded.
+[13:41:18]  Loading plugin: streamer
+[13:41:18]   Loaded.
+[13:41:18]  Loading plugin: Whirlpool
+[13:41:18]  
+[13:41:18]  ==================
+[13:41:18]  
+[13:41:18]   Whirlpool loaded
+[13:41:18]  
+[13:41:18]  ==================
+[13:41:18]  
+[13:41:18]   Loaded.
+[13:41:19]  Loaded 6 plugins.
+
+[13:41:19] 
+[13:41:19] Filterscripts
+[13:41:19] ---------------
+[13:41:19]   Loaded 0 filterscripts.
+
+[13:41:19]  
+[13:41:19]  
+[13:41:19] [MYSQL] Succesfuly connected!
+[13:41:19] 
+----------------------------------
+[13:41:19]  RedGame RPG Gamemode by Gl3nutzu 
+[13:41:19] ----------------------------------
+
+[13:41:19] Number of vehicle models: 0
+[13:43:00] [connection] 127.0.0.1:52440 requests connection cookie.
+[13:43:01] [connection] incoming connection: 127.0.0.1:52440 id: 0
+[13:43:01] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[13:45:12] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:45:19] filterscripts = ""  (string)
+[13:45:19] 
+[13:45:19] Server Plugins
+[13:45:19] --------------
+[13:45:19]  Loading plugin: regex
+[13:45:19] 
+
+[13:45:19] ______________________________________
+
+[13:45:19]  Regular Expression Plugin v0.2.1 loaded
+[13:45:19] ______________________________________
+
+[13:45:19]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:45:19] ______________________________________
+
+[13:45:19]   Loaded.
+[13:45:19]  Loading plugin: mysql
+[13:45:19]  >> plugin.mysql: R39-6 successfully loaded.
+[13:45:19]   Loaded.
+[13:45:19]  Loading plugin: sscanf
+[13:45:19] 
+
+[13:45:19]  ===============================
+
+[13:45:19]       sscanf plugin loaded.     
+
+[13:45:19]          Version:  2.8.1        
+
+[13:45:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:45:19]  ===============================
+
+[13:45:19]   Loaded.
+[13:45:19]  Loading plugin: crashdetect
+[13:45:19]   CrashDetect v4.18.1 is OK.
+[13:45:19]   Loaded.
+[13:45:19]  Loading plugin: streamer
+[13:45:19]   Loaded.
+[13:45:19]  Loading plugin: Whirlpool
+[13:45:19]  
+[13:45:19]  ==================
+[13:45:19]  
+[13:45:19]   Whirlpool loaded
+[13:45:19]  
+[13:45:19]  ==================
+[13:45:19]  
+[13:45:19]   Loaded.
+[13:45:19]  Loaded 6 plugins.
+
+[13:45:19] 
+[13:45:19] Filterscripts
+[13:45:19] ---------------
+[13:45:19]   Loaded 0 filterscripts.
+
+[13:45:20]  
+[13:45:20]  
+[13:45:20] [MYSQL] Succesfuly connected!
+[13:45:20] 
+----------------------------------
+[13:45:20]  RedGame RPG Gamemode by Gl3nutzu 
+[13:45:20] ----------------------------------
+
+[13:45:20] Number of vehicle models: 0
+[13:45:36] [connection] 127.0.0.1:53084 requests connection cookie.
+[13:45:37] [connection] incoming connection: 127.0.0.1:53084 id: 0
+[13:45:37] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:48:14] filterscripts = ""  (string)
+[13:48:14] 
+[13:48:14] Server Plugins
+[13:48:14] --------------
+[13:48:14]  Loading plugin: regex
+[13:48:14] 
+
+[13:48:14] ______________________________________
+
+[13:48:14]  Regular Expression Plugin v0.2.1 loaded
+[13:48:14] ______________________________________
+
+[13:48:14]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:48:14] ______________________________________
+
+[13:48:14]   Loaded.
+[13:48:14]  Loading plugin: mysql
+[13:48:14]  >> plugin.mysql: R39-6 successfully loaded.
+[13:48:14]   Loaded.
+[13:48:14]  Loading plugin: sscanf
+[13:48:14] 
+
+[13:48:14]  ===============================
+
+[13:48:14]       sscanf plugin loaded.     
+
+[13:48:14]          Version:  2.8.1        
+
+[13:48:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:48:14]  ===============================
+
+[13:48:14]   Loaded.
+[13:48:14]  Loading plugin: crashdetect
+[13:48:14]   CrashDetect v4.18.1 is OK.
+[13:48:14]   Loaded.
+[13:48:14]  Loading plugin: streamer
+[13:48:14]   Loaded.
+[13:48:14]  Loading plugin: Whirlpool
+[13:48:14]  
+[13:48:14]  ==================
+[13:48:14]  
+[13:48:14]   Whirlpool loaded
+[13:48:14]  
+[13:48:14]  ==================
+[13:48:14]  
+[13:48:14]   Loaded.
+[13:48:14]  Loaded 6 plugins.
+
+[13:48:14] 
+[13:48:14] Filterscripts
+[13:48:14] ---------------
+[13:48:14]   Loaded 0 filterscripts.
+
+[13:48:14]  
+[13:48:14]  
+[13:48:14] [MYSQL] Succesfuly connected!
+[13:48:14] 
+----------------------------------
+[13:48:14]  RedGame RPG Gamemode by Gl3nutzu 
+[13:48:14] ----------------------------------
+
+[13:48:14] Number of vehicle models: 0
+[13:48:49] [connection] 127.0.0.1:61964 requests connection cookie.
+[13:48:50] [connection] incoming connection: 127.0.0.1:61964 id: 0
+[13:48:51] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:56:13] filterscripts = ""  (string)
+[13:56:13] 
+[13:56:13] Server Plugins
+[13:56:13] --------------
+[13:56:13]  Loading plugin: regex
+[13:56:13] 
+
+[13:56:13] ______________________________________
+
+[13:56:13]  Regular Expression Plugin v0.2.1 loaded
+[13:56:13] ______________________________________
+
+[13:56:13]  By: Fro (c) Copyright <TBG> 2009-2011
+[13:56:13] ______________________________________
+
+[13:56:13]   Loaded.
+[13:56:13]  Loading plugin: mysql
+[13:56:13]  >> plugin.mysql: R39-6 successfully loaded.
+[13:56:13]   Loaded.
+[13:56:13]  Loading plugin: sscanf
+[13:56:13] 
+
+[13:56:13]  ===============================
+
+[13:56:13]       sscanf plugin loaded.     
+
+[13:56:13]          Version:  2.8.1        
+
+[13:56:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:56:13]  ===============================
+
+[13:56:13]   Loaded.
+[13:56:13]  Loading plugin: crashdetect
+[13:56:13]   CrashDetect v4.18.1 is OK.
+[13:56:13]   Loaded.
+[13:56:13]  Loading plugin: streamer
+[13:56:13]   Loaded.
+[13:56:13]  Loading plugin: Whirlpool
+[13:56:13]  
+[13:56:13]  ==================
+[13:56:13]  
+[13:56:13]   Whirlpool loaded
+[13:56:13]  
+[13:56:13]  ==================
+[13:56:13]  
+[13:56:13]   Loaded.
+[13:56:13]  Loaded 6 plugins.
+
+[13:56:13] 
+[13:56:13] Filterscripts
+[13:56:13] ---------------
+[13:56:13]   Loaded 0 filterscripts.
+
+[13:56:14]  
+[13:56:14]  
+[13:56:14] [MYSQL] Succesfuly connected!
+[13:56:14] 
+----------------------------------
+[13:56:14]  RedGame RPG Gamemode by Gl3nutzu 
+[13:56:14] ----------------------------------
+
+[13:56:14] Number of vehicle models: 0
+[13:56:47] [connection] 127.0.0.1:50288 requests connection cookie.
+[13:56:48] [connection] incoming connection: 127.0.0.1:50288 id: 0
+[13:56:48] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[14:06:08] [chat] [Gl3nutzu]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:09:07] filterscripts = ""  (string)
+[14:09:07] 
+[14:09:07] Server Plugins
+[14:09:07] --------------
+[14:09:07]  Loading plugin: regex
+[14:09:07] 
+
+[14:09:07] ______________________________________
+
+[14:09:07]  Regular Expression Plugin v0.2.1 loaded
+[14:09:07] ______________________________________
+
+[14:09:07]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:09:07] ______________________________________
+
+[14:09:07]   Loaded.
+[14:09:07]  Loading plugin: mysql
+[14:09:07]  >> plugin.mysql: R39-6 successfully loaded.
+[14:09:07]   Loaded.
+[14:09:07]  Loading plugin: sscanf
+[14:09:07] 
+
+[14:09:07]  ===============================
+
+[14:09:07]       sscanf plugin loaded.     
+
+[14:09:07]          Version:  2.8.1        
+
+[14:09:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:09:07]  ===============================
+
+[14:09:07]   Loaded.
+[14:09:07]  Loading plugin: crashdetect
+[14:09:07]   CrashDetect v4.18.1 is OK.
+[14:09:07]   Loaded.
+[14:09:07]  Loading plugin: streamer
+[14:09:07]   Loaded.
+[14:09:07]  Loading plugin: Whirlpool
+[14:09:07]  
+[14:09:07]  ==================
+[14:09:07]  
+[14:09:07]   Whirlpool loaded
+[14:09:07]  
+[14:09:07]  ==================
+[14:09:07]  
+[14:09:07]   Loaded.
+[14:09:07]  Loaded 6 plugins.
+
+[14:09:07] 
+[14:09:07] Filterscripts
+[14:09:07] ---------------
+[14:09:07]   Loaded 0 filterscripts.
+
+[14:09:07]  
+[14:09:07]  
+[14:09:07] [MYSQL] Succesfuly connected!
+[14:09:07] 
+----------------------------------
+[14:09:07]  RedGame RPG Gamemode by Gl3nutzu 
+[14:09:07] ----------------------------------
+
+[14:09:07] Number of vehicle models: 0
+[14:09:24] [connection] 127.0.0.1:53819 requests connection cookie.
+[14:09:25] [connection] incoming connection: 127.0.0.1:53819 id: 0
+[14:09:25] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[14:53:19] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:18:44] filterscripts = ""  (string)
+[15:18:44] 
+[15:18:44] Server Plugins
+[15:18:44] --------------
+[15:18:44]  Loading plugin: regex
+[15:18:44] 
+
+[15:18:44] ______________________________________
+
+[15:18:44]  Regular Expression Plugin v0.2.1 loaded
+[15:18:44] ______________________________________
+
+[15:18:44]  By: Fro (c) Copyright <TBG> 2009-2011
+[15:18:44] ______________________________________
+
+[15:18:44]   Loaded.
+[15:18:44]  Loading plugin: mysql
+[15:18:44]  >> plugin.mysql: R39-6 successfully loaded.
+[15:18:44]   Loaded.
+[15:18:44]  Loading plugin: sscanf
+[15:18:44] 
+
+[15:18:44]  ===============================
+
+[15:18:44]       sscanf plugin loaded.     
+
+[15:18:44]          Version:  2.8.1        
+
+[15:18:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:18:44]  ===============================
+
+[15:18:44]   Loaded.
+[15:18:44]  Loading plugin: crashdetect
+[15:18:44]   CrashDetect v4.18.1 is OK.
+[15:18:44]   Loaded.
+[15:18:44]  Loading plugin: streamer
+[15:18:44]   Loaded.
+[15:18:44]  Loading plugin: Whirlpool
+[15:18:44]  
+[15:18:44]  ==================
+[15:18:44]  
+[15:18:44]   Whirlpool loaded
+[15:18:44]  
+[15:18:44]  ==================
+[15:18:44]  
+[15:18:44]   Loaded.
+[15:18:44]  Loaded 6 plugins.
+
+[15:18:44] 
+[15:18:44] Filterscripts
+[15:18:44] ---------------
+[15:18:44]   Loaded 0 filterscripts.
+
+[15:18:44]  
+[15:18:44]  
+[15:18:45] [MYSQL] Succesfuly connected!
+[15:18:45] 
+----------------------------------
+[15:18:45]  RedGame RPG Gamemode by Gl3nutzu 
+[15:18:45] ----------------------------------
+
+[15:18:45] Number of vehicle models: 0
+[15:19:13] [connection] 127.0.0.1:52796 requests connection cookie.
+[15:19:14] [connection] incoming connection: 127.0.0.1:52796 id: 0
+[15:19:14] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[18:06:03] [chat] [Gl3nutzu]: hud
+[19:33:24] [part] Gl3nutzu has left the server (0:1)
+[19:33:24] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:08:29] filterscripts = ""  (string)
+[14:08:29] 
+[14:08:29] Server Plugins
+[14:08:29] --------------
+[14:08:29]  Loading plugin: regex
+[14:08:30] 
+
+[14:08:30] ______________________________________
+
+[14:08:30]  Regular Expression Plugin v0.2.1 loaded
+[14:08:30] ______________________________________
+
+[14:08:30]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:08:30] ______________________________________
+
+[14:08:30]   Loaded.
+[14:08:30]  Loading plugin: mysql
+[14:08:32]  >> plugin.mysql: R39-6 successfully loaded.
+[14:08:32]   Loaded.
+[14:08:32]  Loading plugin: sscanf
+[14:08:32] 
+
+[14:08:32]  ===============================
+
+[14:08:32]       sscanf plugin loaded.     
+
+[14:08:32]          Version:  2.8.1        
+
+[14:08:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:08:32]  ===============================
+
+[14:08:32]   Loaded.
+[14:08:32]  Loading plugin: crashdetect
+[14:08:32]   CrashDetect v4.18.1 is OK.
+[14:08:32]   Loaded.
+[14:08:32]  Loading plugin: streamer
+[14:08:33]   Loaded.
+[14:08:33]  Loading plugin: Whirlpool
+[14:08:33]  
+[14:08:33]  ==================
+[14:08:33]  
+[14:08:33]   Whirlpool loaded
+[14:08:33]  
+[14:08:33]  ==================
+[14:08:33]  
+[14:08:33]   Loaded.
+[14:08:33]  Loaded 6 plugins.
+
+[14:08:33] 
+[14:08:33] Filterscripts
+[14:08:33] ---------------
+[14:08:33]   Loaded 0 filterscripts.
+
+[14:08:33]  
+[14:08:34]  
+[14:08:35] [MYSQL] Connection not found.
+[14:08:35] 
+----------------------------------
+[14:08:35]  RedGame RPG Gamemode by Gl3nutzu 
+[14:08:35] ----------------------------------
+
+[14:08:35] Number of vehicle models: 0
+[14:09:54] [connection] 127.0.0.1:51264 requests connection cookie.
+[14:09:55] [connection] incoming connection: 127.0.0.1:51264 id: 0
+[14:09:56] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[14:10:32] [part] Gl3nutzu has left the server (0:1)
+[14:10:32] [connection] incoming connection: 127.0.0.1:53418 id: 0
+[14:10:49] [connection] incoming connection: 127.0.0.1:53430 id: 0
+[14:10:49] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[14:11:03] [part] Gl3nutzu has left the server (0:1)
+[14:11:20] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:11:22] filterscripts = ""  (string)
+[14:11:22] 
+[14:11:22] Server Plugins
+[14:11:22] --------------
+[14:11:22]  Loading plugin: regex
+[14:11:22] 
+
+[14:11:22] ______________________________________
+
+[14:11:22]  Regular Expression Plugin v0.2.1 loaded
+[14:11:22] ______________________________________
+
+[14:11:22]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:11:22] ______________________________________
+
+[14:11:22]   Loaded.
+[14:11:22]  Loading plugin: mysql
+[14:11:22]  >> plugin.mysql: R39-6 successfully loaded.
+[14:11:22]   Loaded.
+[14:11:22]  Loading plugin: sscanf
+[14:11:22] 
+
+[14:11:22]  ===============================
+
+[14:11:22]       sscanf plugin loaded.     
+
+[14:11:23]          Version:  2.8.1        
+
+[14:11:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:11:23]  ===============================
+
+[14:11:23]   Loaded.
+[14:11:23]  Loading plugin: crashdetect
+[14:11:23]   CrashDetect v4.18.1 is OK.
+[14:11:23]   Loaded.
+[14:11:23]  Loading plugin: streamer
+[14:11:23]   Loaded.
+[14:11:23]  Loading plugin: Whirlpool
+[14:11:23]  
+[14:11:23]  ==================
+[14:11:23]  
+[14:11:23]   Whirlpool loaded
+[14:11:23]  
+[14:11:23]  ==================
+[14:11:23]  
+[14:11:23]   Loaded.
+[14:11:23]  Loaded 6 plugins.
+
+[14:11:23] 
+[14:11:23] Filterscripts
+[14:11:23] ---------------
+[14:11:23]   Loaded 0 filterscripts.
+
+[14:11:23]  
+[14:11:23]  
+[14:11:23] [MYSQL] Succesfuly connected!
+[14:11:23] 
+----------------------------------
+[14:11:23]  RedGame RPG Gamemode by Gl3nutzu 
+[14:11:23] ----------------------------------
+
+[14:11:23] Number of vehicle models: 0
+[14:11:55] [connection] 127.0.0.1:61769 requests connection cookie.
+[14:11:56] [connection] incoming connection: 127.0.0.1:61769 id: 0
+[14:11:56] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:20:17] filterscripts = ""  (string)
+[20:20:17] 
+[20:20:17] Server Plugins
+[20:20:17] --------------
+[20:20:17]  Loading plugin: regex
+[20:20:18] 
+
+[20:20:18] ______________________________________
+
+[20:20:18]  Regular Expression Plugin v0.2.1 loaded
+[20:20:18] ______________________________________
+
+[20:20:18]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:20:18] ______________________________________
+
+[20:20:18]   Loaded.
+[20:20:18]  Loading plugin: mysql
+[20:20:18]  >> plugin.mysql: R39-6 successfully loaded.
+[20:20:18]   Loaded.
+[20:20:18]  Loading plugin: sscanf
+[20:20:18] 
+
+[20:20:18]  ===============================
+
+[20:20:18]       sscanf plugin loaded.     
+
+[20:20:18]          Version:  2.8.1        
+
+[20:20:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:20:18]  ===============================
+
+[20:20:18]   Loaded.
+[20:20:18]  Loading plugin: crashdetect
+[20:20:18]   CrashDetect v4.18.1 is OK.
+[20:20:18]   Loaded.
+[20:20:18]  Loading plugin: streamer
+[20:20:18] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:20:18]   Loaded.
+[20:20:18]  Loading plugin: Whirlpool
+[20:20:18]  
+[20:20:18]  ==================
+[20:20:18]  
+[20:20:18]   Whirlpool loaded
+[20:20:18]  
+[20:20:18]  ==================
+[20:20:18]  
+[20:20:18]   Loaded.
+[20:20:18]  Loaded 6 plugins.
+
+[20:20:19] 
+[20:20:19] Filterscripts
+[20:20:19] ---------------
+[20:20:19]   Loaded 0 filterscripts.
+
+[20:20:19]  
+[20:20:19]  
+[20:20:19] [MYSQL] Succesfuly connected!
+[20:20:19] 
+----------------------------------
+[20:20:19]  RedGame RPG Gamemode by Gl3nutzu 
+[20:20:19] ----------------------------------
+
+[20:20:19] Number of vehicle models: 0
+[20:21:09] [connection] 127.0.0.1:57281 requests connection cookie.
+[20:21:10] [connection] incoming connection: 127.0.0.1:57281 id: 0
+[20:21:10] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[20:35:22] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:35:26] filterscripts = ""  (string)
+[20:35:26] 
+[20:35:26] Server Plugins
+[20:35:26] --------------
+[20:35:26]  Loading plugin: regex
+[20:35:26] 
+
+[20:35:26] ______________________________________
+
+[20:35:26]  Regular Expression Plugin v0.2.1 loaded
+[20:35:26] ______________________________________
+
+[20:35:26]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:35:26] ______________________________________
+
+[20:35:26]   Loaded.
+[20:35:26]  Loading plugin: mysql
+[20:35:26]  >> plugin.mysql: R39-6 successfully loaded.
+[20:35:26]   Loaded.
+[20:35:26]  Loading plugin: sscanf
+[20:35:26] 
+
+[20:35:26]  ===============================
+
+[20:35:26]       sscanf plugin loaded.     
+
+[20:35:26]          Version:  2.8.1        
+
+[20:35:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:35:26]  ===============================
+
+[20:35:26]   Loaded.
+[20:35:26]  Loading plugin: crashdetect
+[20:35:26]   CrashDetect v4.18.1 is OK.
+[20:35:26]   Loaded.
+[20:35:26]  Loading plugin: streamer
+[20:35:26] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:35:26]   Loaded.
+[20:35:26]  Loading plugin: Whirlpool
+[20:35:26]  
+[20:35:26]  ==================
+[20:35:26]  
+[20:35:26]   Whirlpool loaded
+[20:35:26]  
+[20:35:26]  ==================
+[20:35:26]  
+[20:35:26]   Loaded.
+[20:35:26]  Loaded 6 plugins.
+
+[20:35:26] 
+[20:35:26] Filterscripts
+[20:35:26] ---------------
+[20:35:26]   Loaded 0 filterscripts.
+
+[20:35:26]  
+[20:35:27]  
+[20:35:27] [MYSQL] Succesfuly connected!
+[20:35:27] 
+----------------------------------
+[20:35:27]  RedGame RPG Gamemode by Gl3nutzu 
+[20:35:27] ----------------------------------
+
+[20:35:27] Number of vehicle models: 0
+[20:35:34] [connection] 127.0.0.1:51922 requests connection cookie.
+[20:35:35] [connection] incoming connection: 127.0.0.1:51922 id: 0
+[20:35:36] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:39:21] filterscripts = ""  (string)
+[20:39:21] 
+[20:39:21] Server Plugins
+[20:39:21] --------------
+[20:39:21]  Loading plugin: regex
+[20:39:21] 
+
+[20:39:21] ______________________________________
+
+[20:39:21]  Regular Expression Plugin v0.2.1 loaded
+[20:39:21] ______________________________________
+
+[20:39:21]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:39:21] ______________________________________
+
+[20:39:21]   Loaded.
+[20:39:21]  Loading plugin: mysql
+[20:39:21]  >> plugin.mysql: R39-6 successfully loaded.
+[20:39:21]   Loaded.
+[20:39:21]  Loading plugin: sscanf
+[20:39:21] 
+
+[20:39:21]  ===============================
+
+[20:39:21]       sscanf plugin loaded.     
+
+[20:39:21]          Version:  2.8.1        
+
+[20:39:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:39:21]  ===============================
+
+[20:39:21]   Loaded.
+[20:39:21]  Loading plugin: crashdetect
+[20:39:21]   CrashDetect v4.18.1 is OK.
+[20:39:21]   Loaded.
+[20:39:21]  Loading plugin: streamer
+[20:39:21] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:39:21]   Loaded.
+[20:39:21]  Loading plugin: Whirlpool
+[20:39:21]  
+[20:39:21]  ==================
+[20:39:21]  
+[20:39:21]   Whirlpool loaded
+[20:39:21]  
+[20:39:21]  ==================
+[20:39:21]  
+[20:39:21]   Loaded.
+[20:39:21]  Loaded 6 plugins.
+
+[20:39:21] 
+[20:39:21] Filterscripts
+[20:39:21] ---------------
+[20:39:21]   Loaded 0 filterscripts.
+
+[20:39:21]  
+[20:39:21]  
+[20:39:22] [MYSQL] Succesfuly connected!
+[20:39:22] 
+----------------------------------
+[20:39:22]  RedGame RPG Gamemode by Gl3nutzu 
+[20:39:22] ----------------------------------
+
+[20:39:22] Number of vehicle models: 0
+[20:39:48] [connection] 127.0.0.1:64657 requests connection cookie.
+[20:39:49] [connection] incoming connection: 127.0.0.1:64657 id: 0
+[20:39:49] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:26:32] filterscripts = ""  (string)
+[23:26:32] 
+[23:26:32] Server Plugins
+[23:26:32] --------------
+[23:26:32]  Loading plugin: regex
+[23:26:32] 
+
+[23:26:32] ______________________________________
+
+[23:26:32]  Regular Expression Plugin v0.2.1 loaded
+[23:26:32] ______________________________________
+
+[23:26:32]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:26:32] ______________________________________
+
+[23:26:32]   Loaded.
+[23:26:32]  Loading plugin: mysql
+[23:26:33]  >> plugin.mysql: R39-6 successfully loaded.
+[23:26:33]   Loaded.
+[23:26:33]  Loading plugin: sscanf
+[23:26:33] 
+
+[23:26:33]  ===============================
+
+[23:26:33]       sscanf plugin loaded.     
+
+[23:26:33]          Version:  2.8.1        
+
+[23:26:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:26:33]  ===============================
+
+[23:26:33]   Loaded.
+[23:26:33]  Loading plugin: crashdetect
+[23:26:33]   CrashDetect v4.18.1 is OK.
+[23:26:33]   Loaded.
+[23:26:33]  Loading plugin: streamer
+[23:26:33] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:26:33]   Loaded.
+[23:26:33]  Loading plugin: Whirlpool
+[23:26:33]  
+[23:26:33]  ==================
+[23:26:33]  
+[23:26:33]   Whirlpool loaded
+[23:26:33]  
+[23:26:33]  ==================
+[23:26:33]  
+[23:26:33]   Loaded.
+[23:26:33]  Loaded 6 plugins.
+
+[23:26:33] 
+[23:26:33] Filterscripts
+[23:26:33] ---------------
+[23:26:33]   Loaded 0 filterscripts.
+
+[23:26:33]  
+[23:26:33]  
+[23:26:33] [MYSQL] Succesfuly connected!
+[23:26:33] 
+----------------------------------
+[23:26:33]  RedGame RPG Gamemode by Gl3nutzu 
+[23:26:33] ----------------------------------
+
+[23:26:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:26:58] filterscripts = ""  (string)
+[23:26:58] 
+[23:26:58] Server Plugins
+[23:26:58] --------------
+[23:26:58]  Loading plugin: regex
+[23:26:58] 
+
+[23:26:58] ______________________________________
+
+[23:26:58]  Regular Expression Plugin v0.2.1 loaded
+[23:26:58] ______________________________________
+
+[23:26:58]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:26:58] ______________________________________
+
+[23:26:58]   Loaded.
+[23:26:58]  Loading plugin: mysql
+[23:26:58]  >> plugin.mysql: R39-6 successfully loaded.
+[23:26:58]   Loaded.
+[23:26:58]  Loading plugin: sscanf
+[23:26:58] 
+
+[23:26:58]  ===============================
+
+[23:26:58]       sscanf plugin loaded.     
+
+[23:26:58]          Version:  2.8.1        
+
+[23:26:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:26:58]  ===============================
+
+[23:26:58]   Loaded.
+[23:26:58]  Loading plugin: crashdetect
+[23:26:59]   CrashDetect v4.18.1 is OK.
+[23:26:59]   Loaded.
+[23:26:59]  Loading plugin: streamer
+[23:26:59] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:26:59]   Loaded.
+[23:26:59]  Loading plugin: Whirlpool
+[23:26:59]  
+[23:26:59]  ==================
+[23:26:59]  
+[23:26:59]   Whirlpool loaded
+[23:26:59]  
+[23:26:59]  ==================
+[23:26:59]  
+[23:26:59]   Loaded.
+[23:26:59]  Loaded 6 plugins.
+
+[23:26:59] 
+[23:26:59] Filterscripts
+[23:26:59] ---------------
+[23:26:59]   Loaded 0 filterscripts.
+
+[23:26:59]  
+[23:26:59]  
+[23:26:59] [MYSQL] Succesfuly connected!
+[23:26:59] 
+----------------------------------
+[23:26:59]  RedGame RPG Gamemode by Gl3nutzu 
+[23:26:59] ----------------------------------
+
+[23:26:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:28:03] filterscripts = ""  (string)
+[19:28:03] 
+[19:28:03] Server Plugins
+[19:28:03] --------------
+[19:28:03]  Loading plugin: regex
+[19:28:03] 
+
+[19:28:03] ______________________________________
+
+[19:28:03]  Regular Expression Plugin v0.2.1 loaded
+[19:28:03] ______________________________________
+
+[19:28:03]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:28:03] ______________________________________
+
+[19:28:03]   Loaded.
+[19:28:03]  Loading plugin: mysql
+[19:28:04]  >> plugin.mysql: R39-6 successfully loaded.
+[19:28:04]   Loaded.
+[19:28:04]  Loading plugin: sscanf
+[19:28:04] 
+
+[19:28:04]  ===============================
+
+[19:28:04]       sscanf plugin loaded.     
+
+[19:28:04]          Version:  2.8.1        
+
+[19:28:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:28:04]  ===============================
+
+[19:28:04]   Loaded.
+[19:28:04]  Loading plugin: crashdetect
+[19:28:04]   CrashDetect v4.18.1 is OK.
+[19:28:04]   Loaded.
+[19:28:04]  Loading plugin: streamer
+[19:28:04] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:28:04]   Loaded.
+[19:28:04]  Loading plugin: Whirlpool
+[19:28:04]  
+[19:28:04]  ==================
+[19:28:04]  
+[19:28:04]   Whirlpool loaded
+[19:28:04]  
+[19:28:04]  ==================
+[19:28:04]  
+[19:28:04]   Loaded.
+[19:28:04]  Loaded 6 plugins.
+
+[19:28:04] 
+[19:28:04] Filterscripts
+[19:28:04] ---------------
+[19:28:04]   Loaded 0 filterscripts.
+
+[19:28:04]  
+[19:28:04]  
+[19:28:05] [MYSQL] Succesfuly connected!
+[19:28:05] 
+----------------------------------
+[19:28:05]  Beleaua RPG Gamemode by Gl3nutzu 
+[19:28:05] ----------------------------------
+
+[19:28:05] Number of vehicle models: 0
+[19:29:04] [connection] 127.0.0.1:49940 requests connection cookie.
+[19:29:05] [connection] incoming connection: 127.0.0.1:49940 id: 0
+[19:29:05] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[19:41:53] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:56] filterscripts = ""  (string)
+[19:41:56] 
+[19:41:56] Server Plugins
+[19:41:56] --------------
+[19:41:56]  Loading plugin: regex
+[19:41:56] 
+
+[19:41:56] ______________________________________
+
+[19:41:56]  Regular Expression Plugin v0.2.1 loaded
+[19:41:56] ______________________________________
+
+[19:41:56]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:41:56] ______________________________________
+
+[19:41:56]   Loaded.
+[19:41:56]  Loading plugin: mysql
+[19:41:56]  >> plugin.mysql: R39-6 successfully loaded.
+[19:41:56]   Loaded.
+[19:41:56]  Loading plugin: sscanf
+[19:41:56] 
+
+[19:41:56]  ===============================
+
+[19:41:56]       sscanf plugin loaded.     
+
+[19:41:56]          Version:  2.8.1        
+
+[19:41:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:41:56]  ===============================
+
+[19:41:56]   Loaded.
+[19:41:56]  Loading plugin: crashdetect
+[19:41:56]   CrashDetect v4.18.1 is OK.
+[19:41:56]   Loaded.
+[19:41:56]  Loading plugin: streamer
+[19:41:56] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:41:56]   Loaded.
+[19:41:56]  Loading plugin: Whirlpool
+[19:41:56]  
+[19:41:56]  ==================
+[19:41:56]  
+[19:41:56]   Whirlpool loaded
+[19:41:56]  
+[19:41:56]  ==================
+[19:41:56]  
+[19:41:56]   Loaded.
+[19:41:56]  Loaded 6 plugins.
+
+[19:41:56] 
+[19:41:56] Filterscripts
+[19:41:56] ---------------
+[19:41:56]   Loaded 0 filterscripts.
+
+[19:41:56]  
+[19:41:56]  
+[19:41:57] [MYSQL] Succesfuly connected!
+[19:41:57] 
+----------------------------------
+[19:41:57]  Beleaua RPG Gamemode by Gl3nutzu 
+[19:41:57] ----------------------------------
+
+[19:41:57] Number of vehicle models: 0
+[19:42:11] [connection] 127.0.0.1:54024 requests connection cookie.
+[19:42:12] [connection] incoming connection: 127.0.0.1:54024 id: 0
+[19:42:12] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:05] filterscripts = ""  (string)
+[19:50:05] 
+[19:50:05] Server Plugins
+[19:50:05] --------------
+[19:50:05]  Loading plugin: regex
+[19:50:05] 
+
+[19:50:05] ______________________________________
+
+[19:50:05]  Regular Expression Plugin v0.2.1 loaded
+[19:50:05] ______________________________________
+
+[19:50:05]  By: Fro (c) Copyright <TBG> 2009-2011
+[19:50:05] ______________________________________
+
+[19:50:05]   Loaded.
+[19:50:05]  Loading plugin: mysql
+[19:50:05]  >> plugin.mysql: R39-6 successfully loaded.
+[19:50:05]   Loaded.
+[19:50:05]  Loading plugin: sscanf
+[19:50:05] 
+
+[19:50:05]  ===============================
+
+[19:50:05]       sscanf plugin loaded.     
+
+[19:50:05]          Version:  2.8.1        
+
+[19:50:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:50:05]  ===============================
+
+[19:50:05]   Loaded.
+[19:50:05]  Loading plugin: crashdetect
+[19:50:05]   CrashDetect v4.18.1 is OK.
+[19:50:05]   Loaded.
+[19:50:05]  Loading plugin: streamer
+[19:50:05] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[19:50:05]   Loaded.
+[19:50:05]  Loading plugin: Whirlpool
+[19:50:05]  
+[19:50:05]  ==================
+[19:50:05]  
+[19:50:05]   Whirlpool loaded
+[19:50:05]  
+[19:50:05]  ==================
+[19:50:05]  
+[19:50:05]   Loaded.
+[19:50:05]  Loaded 6 plugins.
+
+[19:50:05] 
+[19:50:05] Filterscripts
+[19:50:05] ---------------
+[19:50:05]   Loaded 0 filterscripts.
+
+[19:50:05]  
+[19:50:05]  
+[19:50:05] [MYSQL] Succesfuly connected!
+[19:50:05] 
+----------------------------------
+[19:50:05]  Beleaua RPG Gamemode by Gl3nutzu 
+[19:50:05] ----------------------------------
+
+[19:50:05] Number of vehicle models: 0
+[19:50:20] [connection] 127.0.0.1:59139 requests connection cookie.
+[19:50:21] [connection] incoming connection: 127.0.0.1:59139 id: 0
+[19:50:21] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+Console input:                                                                                                                                                                                                                                                              
+Console input: +
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:54:45] filterscripts = ""  (string)
+[22:54:45] 
+[22:54:45] Server Plugins
+[22:54:45] --------------
+[22:54:45]  Loading plugin: regex
+[22:54:45] 
+
+[22:54:45] ______________________________________
+
+[22:54:45]  Regular Expression Plugin v0.2.1 loaded
+[22:54:45] ______________________________________
+
+[22:54:45]  By: Fro (c) Copyright <TBG> 2009-2011
+[22:54:45] ______________________________________
+
+[22:54:45]   Loaded.
+[22:54:45]  Loading plugin: mysql
+[22:54:45]  >> plugin.mysql: R39-6 successfully loaded.
+[22:54:45]   Loaded.
+[22:54:45]  Loading plugin: sscanf
+[22:54:45] 
+
+[22:54:45]  ===============================
+
+[22:54:45]       sscanf plugin loaded.     
+
+[22:54:45]          Version:  2.8.1        
+
+[22:54:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:54:45]  ===============================
+
+[22:54:45]   Loaded.
+[22:54:45]  Loading plugin: crashdetect
+[22:54:45]   CrashDetect v4.18.1 is OK.
+[22:54:45]   Loaded.
+[22:54:45]  Loading plugin: streamer
+[22:54:45] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[22:54:45]   Loaded.
+[22:54:45]  Loading plugin: Whirlpool
+[22:54:45]  
+[22:54:45]  ==================
+[22:54:45]  
+[22:54:45]   Whirlpool loaded
+[22:54:45]  
+[22:54:45]  ==================
+[22:54:45]  
+[22:54:45]   Loaded.
+[22:54:45]  Loaded 6 plugins.
+
+[22:54:46] 
+[22:54:46] Filterscripts
+[22:54:46] ---------------
+[22:54:46]   Loaded 0 filterscripts.
+
+[22:54:46]  
+[22:54:46]  
+[22:54:46] [MYSQL] Succesfuly connected!
+[22:54:46] 
+----------------------------------
+[22:54:46]  Beleaua RPG Gamemode by Gl3nutzu 
+[22:54:46] ----------------------------------
+
+[22:54:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:18] filterscripts = ""  (string)
+[23:55:18] 
+[23:55:18] Server Plugins
+[23:55:18] --------------
+[23:55:18]  Loading plugin: regex
+[23:55:18] 
+
+[23:55:18] ______________________________________
+
+[23:55:18]  Regular Expression Plugin v0.2.1 loaded
+[23:55:18] ______________________________________
+
+[23:55:18]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:55:18] ______________________________________
+
+[23:55:18]   Loaded.
+[23:55:18]  Loading plugin: mysql
+[23:55:19]  >> plugin.mysql: R39-6 successfully loaded.
+[23:55:19]   Loaded.
+[23:55:19]  Loading plugin: sscanf
+[23:55:19] 
+
+[23:55:19]  ===============================
+
+[23:55:19]       sscanf plugin loaded.     
+
+[23:55:19]          Version:  2.8.1        
+
+[23:55:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:55:19]  ===============================
+
+[23:55:19]   Loaded.
+[23:55:19]  Loading plugin: crashdetect
+[23:55:19]   CrashDetect v4.18.1 is OK.
+[23:55:19]   Loaded.
+[23:55:19]  Loading plugin: streamer
+[23:55:19] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:55:19]   Loaded.
+[23:55:19]  Loading plugin: Whirlpool
+[23:55:19]  
+[23:55:19]  ==================
+[23:55:19]  
+[23:55:19]   Whirlpool loaded
+[23:55:19]  
+[23:55:19]  ==================
+[23:55:19]  
+[23:55:19]   Loaded.
+[23:55:19]  Loaded 6 plugins.
+
+[23:55:19] 
+[23:55:19] Filterscripts
+[23:55:19] ---------------
+[23:55:19]   Loaded 0 filterscripts.
+
+[23:55:19]  
+[23:55:19]  
+[23:55:19] [MYSQL] Succesfuly connected!
+[23:55:19] 
+----------------------------------
+[23:55:19]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:55:19] ----------------------------------
+
+[23:55:19] Number of vehicle models: 0
+[23:55:22] [connection] 127.0.0.1:50482 requests connection cookie.
+[23:55:23] [connection] incoming connection: 127.0.0.1:50482 id: 0
+[23:55:23] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:54] filterscripts = ""  (string)
+[23:59:54] 
+[23:59:54] Server Plugins
+[23:59:54] --------------
+[23:59:54]  Loading plugin: regex
+[23:59:54] 
+
+[23:59:54] ______________________________________
+
+[23:59:54]  Regular Expression Plugin v0.2.1 loaded
+[23:59:54] ______________________________________
+
+[23:59:54]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:59:54] ______________________________________
+
+[23:59:54]   Loaded.
+[23:59:54]  Loading plugin: mysql
+[23:59:54]  >> plugin.mysql: R39-6 successfully loaded.
+[23:59:54]   Loaded.
+[23:59:54]  Loading plugin: sscanf
+[23:59:54] 
+
+[23:59:54]  ===============================
+
+[23:59:54]       sscanf plugin loaded.     
+
+[23:59:54]          Version:  2.8.1        
+
+[23:59:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:59:54]  ===============================
+
+[23:59:54]   Loaded.
+[23:59:54]  Loading plugin: crashdetect
+[23:59:54]   CrashDetect v4.18.1 is OK.
+[23:59:54]   Loaded.
+[23:59:54]  Loading plugin: streamer
+[23:59:54] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:59:54]   Loaded.
+[23:59:54]  Loading plugin: Whirlpool
+[23:59:54]  
+[23:59:54]  ==================
+[23:59:54]  
+[23:59:54]   Whirlpool loaded
+[23:59:54]  
+[23:59:54]  ==================
+[23:59:54]  
+[23:59:54]   Loaded.
+[23:59:54]  Loaded 6 plugins.
+
+[23:59:54] 
+[23:59:54] Filterscripts
+[23:59:54] ---------------
+[23:59:54]   Loaded 0 filterscripts.
+
+[23:59:55]  
+[23:59:55]  
+[23:59:55] [MYSQL] Succesfuly connected!
+[23:59:55] 
+----------------------------------
+[23:59:55]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:59:55] ----------------------------------
+
+[23:59:55] Number of vehicle models: 0
+[00:00:09] [connection] 127.0.0.1:62736 requests connection cookie.
+[00:00:10] [connection] incoming connection: 127.0.0.1:62736 id: 0
+[00:00:10] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+Console input: /gmx
+Console input: gmx
+Console input: rr
+Console input: restart
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:11] filterscripts = ""  (string)
+[00:15:11] 
+[00:15:11] Server Plugins
+[00:15:11] --------------
+[00:15:11]  Loading plugin: regex
+[00:15:11] 
+
+[00:15:11] ______________________________________
+
+[00:15:11]  Regular Expression Plugin v0.2.1 loaded
+[00:15:11] ______________________________________
+
+[00:15:11]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:15:11] ______________________________________
+
+[00:15:11]   Loaded.
+[00:15:11]  Loading plugin: mysql
+[00:15:11]  >> plugin.mysql: R39-6 successfully loaded.
+[00:15:11]   Loaded.
+[00:15:11]  Loading plugin: sscanf
+[00:15:11] 
+
+[00:15:11]  ===============================
+
+[00:15:11]       sscanf plugin loaded.     
+
+[00:15:11]          Version:  2.8.1        
+
+[00:15:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:15:11]  ===============================
+
+[00:15:11]   Loaded.
+[00:15:11]  Loading plugin: crashdetect
+[00:15:11]   CrashDetect v4.18.1 is OK.
+[00:15:11]   Loaded.
+[00:15:11]  Loading plugin: streamer
+[00:15:11] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:15:11]   Loaded.
+[00:15:11]  Loading plugin: Whirlpool
+[00:15:11]  
+[00:15:11]  ==================
+[00:15:11]  
+[00:15:11]   Whirlpool loaded
+[00:15:11]  
+[00:15:11]  ==================
+[00:15:11]  
+[00:15:11]   Loaded.
+[00:15:11]  Loaded 6 plugins.
+
+[00:15:11] 
+[00:15:11] Filterscripts
+[00:15:11] ---------------
+[00:15:11]   Loaded 0 filterscripts.
+
+[00:15:11]  
+[00:15:11]  
+[00:15:11] [MYSQL] Succesfuly connected!
+[00:15:11] 
+----------------------------------
+[00:15:11]  Beleaua RPG Gamemode by Gl3nutzu 
+[00:15:11] ----------------------------------
+
+[00:15:11] Number of vehicle models: 0
+[00:15:24] [connection] 127.0.0.1:57751 requests connection cookie.
+[00:15:25] [connection] incoming connection: 127.0.0.1:57751 id: 0
+[00:15:25] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:05:16] filterscripts = ""  (string)
+[00:05:16] 
+[00:05:16] Server Plugins
+[00:05:16] --------------
+[00:05:16]  Loading plugin: regex
+[00:05:16] 
+
+[00:05:16] ______________________________________
+
+[00:05:16]  Regular Expression Plugin v0.2.1 loaded
+[00:05:16] ______________________________________
+
+[00:05:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:05:16] ______________________________________
+
+[00:05:16]   Loaded.
+[00:05:16]  Loading plugin: mysql
+[00:05:16]  >> plugin.mysql: R39-6 successfully loaded.
+[00:05:16]   Loaded.
+[00:05:16]  Loading plugin: sscanf
+[00:05:17] 
+
+[00:05:17]  ===============================
+
+[00:05:17]       sscanf plugin loaded.     
+
+[00:05:17]          Version:  2.8.1        
+
+[00:05:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:05:17]  ===============================
+
+[00:05:17]   Loaded.
+[00:05:17]  Loading plugin: crashdetect
+[00:05:17]   CrashDetect v4.18.1 is OK.
+[00:05:17]   Loaded.
+[00:05:17]  Loading plugin: streamer
+[00:05:17] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:05:17]   Loaded.
+[00:05:17]  Loading plugin: Whirlpool
+[00:05:17]  
+[00:05:17]  ==================
+[00:05:17]  
+[00:05:17]   Whirlpool loaded
+[00:05:17]  
+[00:05:17]  ==================
+[00:05:17]  
+[00:05:17]   Loaded.
+[00:05:17]  Loaded 6 plugins.
+
+[00:05:17] 
+[00:05:17] Filterscripts
+[00:05:17] ---------------
+[00:05:17]   Loaded 0 filterscripts.
+
+[00:05:17]  
+[00:05:17]  
+[00:05:17] [MYSQL] Succesfuly connected!
+[00:05:17] 
+----------------------------------
+[00:05:17]  Beleaua RPG Gamemode by Gl3nutzu 
+[00:05:17] ----------------------------------
+
+[00:05:17] Number of vehicle models: 0
+[00:06:11] [connection] 127.0.0.1:60308 requests connection cookie.
+[00:06:12] [connection] incoming connection: 127.0.0.1:60308 id: 0
+[00:06:12] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:21] filterscripts = ""  (string)
+[00:11:21] 
+[00:11:21] Server Plugins
+[00:11:21] --------------
+[00:11:21]  Loading plugin: regex
+[00:11:21] 
+
+[00:11:21] ______________________________________
+
+[00:11:21]  Regular Expression Plugin v0.2.1 loaded
+[00:11:21] ______________________________________
+
+[00:11:21]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:11:21] ______________________________________
+
+[00:11:21]   Loaded.
+[00:11:21]  Loading plugin: mysql
+[00:11:21]  >> plugin.mysql: R39-6 successfully loaded.
+[00:11:21]   Loaded.
+[00:11:21]  Loading plugin: sscanf
+[00:11:21] 
+
+[00:11:21]  ===============================
+
+[00:11:21]       sscanf plugin loaded.     
+
+[00:11:21]          Version:  2.8.1        
+
+[00:11:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:11:21]  ===============================
+
+[00:11:21]   Loaded.
+[00:11:21]  Loading plugin: crashdetect
+[00:11:21]   CrashDetect v4.18.1 is OK.
+[00:11:21]   Loaded.
+[00:11:21]  Loading plugin: streamer
+[00:11:21] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:11:21]   Loaded.
+[00:11:21]  Loading plugin: Whirlpool
+[00:11:21]  
+[00:11:21]  ==================
+[00:11:21]  
+[00:11:21]   Whirlpool loaded
+[00:11:21]  
+[00:11:21]  ==================
+[00:11:21]  
+[00:11:21]   Loaded.
+[00:11:21]  Loaded 6 plugins.
+
+[00:11:22] 
+[00:11:22] Filterscripts
+[00:11:22] ---------------
+[00:11:22]   Loaded 0 filterscripts.
+
+[00:11:22]  
+[00:11:22]  
+[00:11:22] [MYSQL] Succesfuly connected!
+[00:11:22] 
+----------------------------------
+[00:11:22]  Beleaua RPG Gamemode by Gl3nutzu 
+[00:11:22] ----------------------------------
+
+[00:11:22] Number of vehicle models: 0
+[00:12:56] [connection] 127.0.0.1:49673 requests connection cookie.
+[00:12:57] [connection] incoming connection: 127.0.0.1:49673 id: 0
+[00:12:58] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:13:50] filterscripts = ""  (string)
+[00:13:50] 
+[00:13:50] Server Plugins
+[00:13:50] --------------
+[00:13:50]  Loading plugin: regex
+[00:13:50] 
+
+[00:13:50] ______________________________________
+
+[00:13:50]  Regular Expression Plugin v0.2.1 loaded
+[00:13:50] ______________________________________
+
+[00:13:50]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:13:50] ______________________________________
+
+[00:13:50]   Loaded.
+[00:13:50]  Loading plugin: mysql
+[00:13:50]  >> plugin.mysql: R39-6 successfully loaded.
+[00:13:50]   Loaded.
+[00:13:50]  Loading plugin: sscanf
+[00:13:50] 
+
+[00:13:50]  ===============================
+
+[00:13:50]       sscanf plugin loaded.     
+
+[00:13:50]          Version:  2.8.1        
+
+[00:13:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:13:50]  ===============================
+
+[00:13:50]   Loaded.
+[00:13:50]  Loading plugin: crashdetect
+[00:13:50]   CrashDetect v4.18.1 is OK.
+[00:13:50]   Loaded.
+[00:13:50]  Loading plugin: streamer
+[00:13:50] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:13:50]   Loaded.
+[00:13:50]  Loading plugin: Whirlpool
+[00:13:50]  
+[00:13:50]  ==================
+[00:13:50]  
+[00:13:50]   Whirlpool loaded
+[00:13:51]  
+[00:13:51]  ==================
+[00:13:51]  
+[00:13:51]   Loaded.
+[00:13:51]  Loaded 6 plugins.
+
+[00:13:51] 
+[00:13:51] Filterscripts
+[00:13:51] ---------------
+[00:13:51]   Loaded 0 filterscripts.
+
+[00:13:51]  
+[00:13:51]  
+[00:13:51] [MYSQL] Succesfuly connected!
+[00:13:51] 
+----------------------------------
+[00:13:51]  Beleaua RPG Gamemode by Gl3nutzu 
+[00:13:51] ----------------------------------
+
+[00:13:51] Number of vehicle models: 0
+[00:14:49] [connection] 127.0.0.1:49677 requests connection cookie.
+[00:14:50] [connection] incoming connection: 127.0.0.1:49677 id: 0
+[00:14:50] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:55:08] filterscripts = ""  (string)
+[00:55:08] 
+[00:55:08] Server Plugins
+[00:55:08] --------------
+[00:55:08]  Loading plugin: regex
+[00:55:08] 
+
+[00:55:08] ______________________________________
+
+[00:55:08]  Regular Expression Plugin v0.2.1 loaded
+[00:55:08] ______________________________________
+
+[00:55:08]  By: Fro (c) Copyright <TBG> 2009-2011
+[00:55:08] ______________________________________
+
+[00:55:08]   Loaded.
+[00:55:08]  Loading plugin: mysql
+[00:55:08]  >> plugin.mysql: R39-6 successfully loaded.
+[00:55:08]   Loaded.
+[00:55:08]  Loading plugin: sscanf
+[00:55:08] 
+
+[00:55:08]  ===============================
+
+[00:55:08]       sscanf plugin loaded.     
+
+[00:55:08]          Version:  2.8.1        
+
+[00:55:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:55:08]  ===============================
+
+[00:55:08]   Loaded.
+[00:55:08]  Loading plugin: crashdetect
+[00:55:08]   CrashDetect v4.18.1 is OK.
+[00:55:08]   Loaded.
+[00:55:08]  Loading plugin: streamer
+[00:55:08] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:55:08]   Loaded.
+[00:55:08]  Loading plugin: Whirlpool
+[00:55:08]  
+[00:55:08]  ==================
+[00:55:08]  
+[00:55:08]   Whirlpool loaded
+[00:55:08]  
+[00:55:08]  ==================
+[00:55:08]  
+[00:55:08]   Loaded.
+[00:55:08]  Loaded 6 plugins.
+
+[00:55:08] 
+[00:55:08] Filterscripts
+[00:55:08] ---------------
+[00:55:08]   Loaded 0 filterscripts.
+
+[00:55:08]  
+[00:55:08]  
+[00:55:08] [MYSQL] Succesfuly connected!
+[00:55:08] 
+----------------------------------
+[00:55:08]  Beleaua RPG Gamemode by Gl3nutzu 
+[00:55:08] ----------------------------------
+
+[00:55:08] Number of vehicle models: 0
+[00:55:25] [connection] 127.0.0.1:53067 requests connection cookie.
+[00:55:26] [connection] incoming connection: 127.0.0.1:53067 id: 0
+[00:55:26] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:49:23] filterscripts = ""  (string)
+[14:49:23] 
+[14:49:23] Server Plugins
+[14:49:23] --------------
+[14:49:23]  Loading plugin: regex
+[14:49:23] 
+
+[14:49:23] ______________________________________
+
+[14:49:23]  Regular Expression Plugin v0.2.1 loaded
+[14:49:23] ______________________________________
+
+[14:49:23]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:49:23] ______________________________________
+
+[14:49:23]   Loaded.
+[14:49:23]  Loading plugin: mysql
+[14:49:23]  >> plugin.mysql: R39-6 successfully loaded.
+[14:49:23]   Loaded.
+[14:49:23]  Loading plugin: sscanf
+[14:49:23] 
+
+[14:49:23]  ===============================
+
+[14:49:23]       sscanf plugin loaded.     
+
+[14:49:23]          Version:  2.8.1        
+
+[14:49:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:49:23]  ===============================
+
+[14:49:23]   Loaded.
+[14:49:23]  Loading plugin: crashdetect
+[14:49:23]   CrashDetect v4.18.1 is OK.
+[14:49:23]   Loaded.
+[14:49:23]  Loading plugin: streamer
+[14:49:23] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:49:23]   Loaded.
+[14:49:23]  Loading plugin: Whirlpool
+[14:49:23]  
+[14:49:23]  ==================
+[14:49:23]  
+[14:49:23]   Whirlpool loaded
+[14:49:23]  
+[14:49:23]  ==================
+[14:49:23]  
+[14:49:23]   Loaded.
+[14:49:23]  Loaded 6 plugins.
+
+[14:49:23] 
+[14:49:23] Filterscripts
+[14:49:23] ---------------
+[14:49:23]   Loaded 0 filterscripts.
+
+[14:49:24]  
+[14:49:24]  
+[14:49:24] [MYSQL] Succesfuly connected!
+[14:49:24] 
+----------------------------------
+[14:49:24]  Beleaua RPG Gamemode by Gl3nutzu 
+[14:49:24] ----------------------------------
+
+[14:49:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:52:45] filterscripts = ""  (string)
+[14:52:45] 
+[14:52:45] Server Plugins
+[14:52:45] --------------
+[14:52:45]  Loading plugin: regex
+[14:52:45] 
+
+[14:52:45] ______________________________________
+
+[14:52:45]  Regular Expression Plugin v0.2.1 loaded
+[14:52:45] ______________________________________
+
+[14:52:45]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:52:45] ______________________________________
+
+[14:52:45]   Loaded.
+[14:52:45]  Loading plugin: mysql
+[14:52:45]  >> plugin.mysql: R39-6 successfully loaded.
+[14:52:45]   Loaded.
+[14:52:45]  Loading plugin: sscanf
+[14:52:45] 
+
+[14:52:45]  ===============================
+
+[14:52:45]       sscanf plugin loaded.     
+
+[14:52:45]          Version:  2.8.1        
+
+[14:52:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:52:45]  ===============================
+
+[14:52:45]   Loaded.
+[14:52:45]  Loading plugin: crashdetect
+[14:52:45]   CrashDetect v4.18.1 is OK.
+[14:52:45]   Loaded.
+[14:52:45]  Loading plugin: streamer
+[14:52:45] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:52:45]   Loaded.
+[14:52:45]  Loading plugin: Whirlpool
+[14:52:45]  
+[14:52:45]  ==================
+[14:52:45]  
+[14:52:45]   Whirlpool loaded
+[14:52:45]  
+[14:52:45]  ==================
+[14:52:45]  
+[14:52:45]   Loaded.
+[14:52:45]  Loaded 6 plugins.
+
+[14:52:45] 
+[14:52:45] Filterscripts
+[14:52:45] ---------------
+[14:52:45]   Loaded 0 filterscripts.
+
+[14:52:45]  
+[14:52:45]  
+[14:52:45] [MYSQL] Succesfuly connected!
+[14:52:45] 
+----------------------------------
+[14:52:45]  Beleaua RPG Gamemode by Gl3nutzu 
+[14:52:45] ----------------------------------
+
+[14:52:45] Number of vehicle models: 0
+[14:52:51] [connection] 127.0.0.1:53451 requests connection cookie.
+[14:52:52] [connection] incoming connection: 127.0.0.1:53451 id: 0
+[14:52:52] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:58:29] filterscripts = ""  (string)
+[14:58:29] 
+[14:58:29] Server Plugins
+[14:58:29] --------------
+[14:58:29]  Loading plugin: regex
+[14:58:29] 
+
+[14:58:29] ______________________________________
+
+[14:58:29]  Regular Expression Plugin v0.2.1 loaded
+[14:58:29] ______________________________________
+
+[14:58:29]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:58:29] ______________________________________
+
+[14:58:29]   Loaded.
+[14:58:29]  Loading plugin: mysql
+[14:58:29]  >> plugin.mysql: R39-6 successfully loaded.
+[14:58:29]   Loaded.
+[14:58:29]  Loading plugin: sscanf
+[14:58:29] 
+
+[14:58:29]  ===============================
+
+[14:58:29]       sscanf plugin loaded.     
+
+[14:58:29]          Version:  2.8.1        
+
+[14:58:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:58:29]  ===============================
+
+[14:58:29]   Loaded.
+[14:58:29]  Loading plugin: crashdetect
+[14:58:29]   CrashDetect v4.18.1 is OK.
+[14:58:29]   Loaded.
+[14:58:29]  Loading plugin: streamer
+[14:58:29] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:58:29]   Loaded.
+[14:58:29]  Loading plugin: Whirlpool
+[14:58:29]  
+[14:58:29]  ==================
+[14:58:29]  
+[14:58:29]   Whirlpool loaded
+[14:58:29]  
+[14:58:29]  ==================
+[14:58:29]  
+[14:58:29]   Loaded.
+[14:58:29]  Loaded 6 plugins.
+
+[14:58:29] 
+[14:58:29] Filterscripts
+[14:58:29] ---------------
+[14:58:29]   Loaded 0 filterscripts.
+
+[14:58:29]  
+[14:58:29]  
+[14:58:29] [MYSQL] Succesfuly connected!
+[14:58:29] 
+----------------------------------
+[14:58:29]  Beleaua RPG Gamemode by Gl3nutzu 
+[14:58:29] ----------------------------------
+
+[14:58:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:58:36] filterscripts = ""  (string)
+[14:58:36] 
+[14:58:36] Server Plugins
+[14:58:36] --------------
+[14:58:36]  Loading plugin: regex
+[14:58:36] 
+
+[14:58:36] ______________________________________
+
+[14:58:36]  Regular Expression Plugin v0.2.1 loaded
+[14:58:36] ______________________________________
+
+[14:58:36]  By: Fro (c) Copyright <TBG> 2009-2011
+[14:58:36] ______________________________________
+
+[14:58:36]   Loaded.
+[14:58:36]  Loading plugin: mysql
+[14:58:36]  >> plugin.mysql: R39-6 successfully loaded.
+[14:58:36]   Loaded.
+[14:58:36]  Loading plugin: sscanf
+[14:58:36] 
+
+[14:58:36]  ===============================
+
+[14:58:36]       sscanf plugin loaded.     
+
+[14:58:36]          Version:  2.8.1        
+
+[14:58:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:58:36]  ===============================
+
+[14:58:36]   Loaded.
+[14:58:36]  Loading plugin: crashdetect
+[14:58:36]   CrashDetect v4.18.1 is OK.
+[14:58:36]   Loaded.
+[14:58:36]  Loading plugin: streamer
+[14:58:36] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:58:36]   Loaded.
+[14:58:36]  Loading plugin: Whirlpool
+[14:58:36]  
+[14:58:36]  ==================
+[14:58:36]  
+[14:58:36]   Whirlpool loaded
+[14:58:36]  
+[14:58:36]  ==================
+[14:58:36]  
+[14:58:36]   Loaded.
+[14:58:36]  Loaded 6 plugins.
+
+[14:58:36] 
+[14:58:36] Filterscripts
+[14:58:36] ---------------
+[14:58:36]   Loaded 0 filterscripts.
+
+[14:58:36]  
+[14:58:37]  
+[14:58:37] [MYSQL] Succesfuly connected!
+[14:58:37] 
+----------------------------------
+[14:58:37]  Beleaua RPG Gamemode by Gl3nutzu 
+[14:58:37] ----------------------------------
+
+[14:58:37] Number of vehicle models: 0
+[14:58:39] [connection] 127.0.0.1:60994 requests connection cookie.
+[14:58:40] [connection] incoming connection: 127.0.0.1:60994 id: 0
+[14:58:40] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:28:42] filterscripts = ""  (string)
+[23:28:42] 
+[23:28:42] Server Plugins
+[23:28:42] --------------
+[23:28:42]  Loading plugin: regex
+[23:28:42] 
+
+[23:28:42] ______________________________________
+
+[23:28:42]  Regular Expression Plugin v0.2.1 loaded
+[23:28:42] ______________________________________
+
+[23:28:42]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:28:42] ______________________________________
+
+[23:28:42]   Loaded.
+[23:28:42]  Loading plugin: mysql
+[23:28:42]  >> plugin.mysql: R39-6 successfully loaded.
+[23:28:42]   Loaded.
+[23:28:42]  Loading plugin: sscanf
+[23:28:42] 
+
+[23:28:42]  ===============================
+
+[23:28:42]       sscanf plugin loaded.     
+
+[23:28:42]          Version:  2.8.1        
+
+[23:28:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:28:42]  ===============================
+
+[23:28:42]   Loaded.
+[23:28:42]  Loading plugin: crashdetect
+[23:28:42]   CrashDetect v4.18.1 is OK.
+[23:28:42]   Loaded.
+[23:28:42]  Loading plugin: streamer
+[23:28:42] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:28:42]   Loaded.
+[23:28:42]  Loading plugin: Whirlpool
+[23:28:42]  
+[23:28:42]  ==================
+[23:28:42]  
+[23:28:42]   Whirlpool loaded
+[23:28:42]  
+[23:28:42]  ==================
+[23:28:42]  
+[23:28:42]   Loaded.
+[23:28:42]  Loaded 6 plugins.
+
+[23:28:42] 
+[23:28:42] Filterscripts
+[23:28:42] ---------------
+[23:28:42]   Loaded 0 filterscripts.
+
+[23:28:43]  
+[23:28:43]  
+[23:28:43] [MYSQL] Succesfuly connected!
+[23:28:43] 
+----------------------------------
+[23:28:43]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:28:43] ----------------------------------
+
+[23:28:43] Number of vehicle models: 0
+[23:31:24] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:31:27] filterscripts = ""  (string)
+[23:31:27] 
+[23:31:27] Server Plugins
+[23:31:27] --------------
+[23:31:27]  Loading plugin: regex
+[23:31:27] 
+
+[23:31:27] ______________________________________
+
+[23:31:27]  Regular Expression Plugin v0.2.1 loaded
+[23:31:27] ______________________________________
+
+[23:31:27]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:31:27] ______________________________________
+
+[23:31:27]   Loaded.
+[23:31:27]  Loading plugin: mysql
+[23:31:27]  >> plugin.mysql: R39-6 successfully loaded.
+[23:31:27]   Loaded.
+[23:31:27]  Loading plugin: sscanf
+[23:31:27] 
+
+[23:31:27]  ===============================
+
+[23:31:27]       sscanf plugin loaded.     
+
+[23:31:27]          Version:  2.8.1        
+
+[23:31:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:31:27]  ===============================
+
+[23:31:27]   Loaded.
+[23:31:27]  Loading plugin: crashdetect
+[23:31:27]   CrashDetect v4.18.1 is OK.
+[23:31:27]   Loaded.
+[23:31:27]  Loading plugin: streamer
+[23:31:27] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:31:27]   Loaded.
+[23:31:27]  Loading plugin: Whirlpool
+[23:31:27]  
+[23:31:27]  ==================
+[23:31:27]  
+[23:31:27]   Whirlpool loaded
+[23:31:27]  
+[23:31:27]  ==================
+[23:31:27]  
+[23:31:27]   Loaded.
+[23:31:27]  Loaded 6 plugins.
+
+[23:31:27] 
+[23:31:27] Filterscripts
+[23:31:27] ---------------
+[23:31:27]   Loaded 0 filterscripts.
+
+[23:31:27]  
+[23:31:27]  
+[23:31:27] [MYSQL] Succesfuly connected!
+[23:31:27] 
+----------------------------------
+[23:31:27]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:31:27] ----------------------------------
+
+[23:31:27] Number of vehicle models: 0
+[23:33:47] [connection] 127.0.0.1:61756 requests connection cookie.
+[23:33:48] [connection] incoming connection: 127.0.0.1:61756 id: 0
+[23:33:49] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[23:36:59] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:16:08] filterscripts = ""  (string)
+[15:16:08] 
+[15:16:08] Server Plugins
+[15:16:08] --------------
+[15:16:08]  Loading plugin: regex
+[15:16:08] 
+
+[15:16:08] ______________________________________
+
+[15:16:08]  Regular Expression Plugin v0.2.1 loaded
+[15:16:08] ______________________________________
+
+[15:16:08]  By: Fro (c) Copyright <TBG> 2009-2011
+[15:16:08] ______________________________________
+
+[15:16:08]   Loaded.
+[15:16:08]  Loading plugin: mysql
+[15:16:09]  >> plugin.mysql: R39-6 successfully loaded.
+[15:16:09]   Loaded.
+[15:16:09]  Loading plugin: sscanf
+[15:16:09] 
+
+[15:16:09]  ===============================
+
+[15:16:09]       sscanf plugin loaded.     
+
+[15:16:09]          Version:  2.8.1        
+
+[15:16:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:16:09]  ===============================
+
+[15:16:09]   Loaded.
+[15:16:09]  Loading plugin: crashdetect
+[15:16:09]   CrashDetect v4.18.1 is OK.
+[15:16:09]   Loaded.
+[15:16:09]  Loading plugin: streamer
+[15:16:09] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[15:16:09]   Loaded.
+[15:16:09]  Loading plugin: Whirlpool
+[15:16:09]  
+[15:16:09]  ==================
+[15:16:09]  
+[15:16:09]   Whirlpool loaded
+[15:16:09]  
+[15:16:09]  ==================
+[15:16:09]  
+[15:16:09]   Loaded.
+[15:16:09]  Loaded 6 plugins.
+
+[15:16:09] 
+[15:16:09] Filterscripts
+[15:16:09] ---------------
+[15:16:09]   Loaded 0 filterscripts.
+
+[15:16:09]  
+[15:16:09]  
+[15:16:10] [MYSQL] Succesfuly connected!
+[15:16:10] 
+----------------------------------
+[15:16:10]  Beleaua RPG Gamemode by Gl3nutzu 
+[15:16:10] ----------------------------------
+
+[15:16:10] Number of vehicle models: 0
+[15:16:45] [connection] 127.0.0.1:58905 requests connection cookie.
+[15:16:46] [connection] incoming connection: 127.0.0.1:58905 id: 0
+[15:16:46] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[15:21:30] [death] Gl3nutzu died 255
+[15:29:53] [death] Gl3nutzu died 54
+[17:21:11] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:03] filterscripts = ""  (string)
+[17:48:03] 
+[17:48:03] Server Plugins
+[17:48:03] --------------
+[17:48:03]  Loading plugin: regex
+[17:48:03] 
+
+[17:48:03] ______________________________________
+
+[17:48:03]  Regular Expression Plugin v0.2.1 loaded
+[17:48:03] ______________________________________
+
+[17:48:03]  By: Fro (c) Copyright <TBG> 2009-2011
+[17:48:03] ______________________________________
+
+[17:48:03]   Loaded.
+[17:48:03]  Loading plugin: mysql
+[17:48:04]  >> plugin.mysql: R39-6 successfully loaded.
+[17:48:04]   Loaded.
+[17:48:04]  Loading plugin: sscanf
+[17:48:04] 
+
+[17:48:04]  ===============================
+
+[17:48:04]       sscanf plugin loaded.     
+
+[17:48:04]          Version:  2.8.1        
+
+[17:48:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:48:04]  ===============================
+
+[17:48:04]   Loaded.
+[17:48:04]  Loading plugin: crashdetect
+[17:48:04]   CrashDetect v4.18.1 is OK.
+[17:48:04]   Loaded.
+[17:48:04]  Loading plugin: streamer
+[17:48:04] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[17:48:04]   Loaded.
+[17:48:04]  Loading plugin: Whirlpool
+[17:48:04]  
+[17:48:04]  ==================
+[17:48:04]  
+[17:48:04]   Whirlpool loaded
+[17:48:04]  
+[17:48:04]  ==================
+[17:48:04]  
+[17:48:04]   Loaded.
+[17:48:04]  Loaded 6 plugins.
+
+[17:48:04] 
+[17:48:04] Filterscripts
+[17:48:04] ---------------
+[17:48:04]   Loaded 0 filterscripts.
+
+[17:48:05]  
+[17:48:05]  
+[17:48:06] [MYSQL] Succesfuly connected!
+[17:48:06] 
+----------------------------------
+[17:48:06]  Beleaua RPG Gamemode by Gl3nutzu 
+[17:48:06] ----------------------------------
+
+[17:48:06] Number of vehicle models: 0
+[17:48:51] [connection] 127.0.0.1:51607 requests connection cookie.
+[17:48:52] [connection] incoming connection: 127.0.0.1:51607 id: 0
+[17:48:52] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[18:10:16] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:19] filterscripts = ""  (string)
+[18:10:19] 
+[18:10:19] Server Plugins
+[18:10:19] --------------
+[18:10:19]  Loading plugin: regex
+[18:10:19] 
+
+[18:10:19] ______________________________________
+
+[18:10:19]  Regular Expression Plugin v0.2.1 loaded
+[18:10:19] ______________________________________
+
+[18:10:19]  By: Fro (c) Copyright <TBG> 2009-2011
+[18:10:19] ______________________________________
+
+[18:10:19]   Loaded.
+[18:10:19]  Loading plugin: mysql
+[18:10:19]  >> plugin.mysql: R39-6 successfully loaded.
+[18:10:19]   Loaded.
+[18:10:19]  Loading plugin: sscanf
+[18:10:19] 
+
+[18:10:19]  ===============================
+
+[18:10:19]       sscanf plugin loaded.     
+
+[18:10:19]          Version:  2.8.1        
+
+[18:10:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:10:19]  ===============================
+
+[18:10:19]   Loaded.
+[18:10:19]  Loading plugin: crashdetect
+[18:10:19]   CrashDetect v4.18.1 is OK.
+[18:10:19]   Loaded.
+[18:10:19]  Loading plugin: streamer
+[18:10:19] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:10:19]   Loaded.
+[18:10:19]  Loading plugin: Whirlpool
+[18:10:19]  
+[18:10:19]  ==================
+[18:10:19]  
+[18:10:19]   Whirlpool loaded
+[18:10:19]  
+[18:10:19]  ==================
+[18:10:19]  
+[18:10:19]   Loaded.
+[18:10:19]  Loaded 6 plugins.
+
+[18:10:19] 
+[18:10:19] Filterscripts
+[18:10:19] ---------------
+[18:10:19]   Loaded 0 filterscripts.
+
+[18:10:19]  
+[18:10:19]  
+[18:10:19] [MYSQL] Succesfuly connected!
+[18:10:19] 
+----------------------------------
+[18:10:19]  Beleaua RPG Gamemode by Gl3nutzu 
+[18:10:19] ----------------------------------
+
+[18:10:19] Number of vehicle models: 0
+[18:10:27] [connection] 127.0.0.1:53560 requests connection cookie.
+[18:10:28] [connection] incoming connection: 127.0.0.1:53560 id: 0
+[18:10:29] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[19:35:46] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:35:59] filterscripts = ""  (string)
+[20:35:59] 
+[20:35:59] Server Plugins
+[20:35:59] --------------
+[20:35:59]  Loading plugin: regex
+[20:35:59] 
+
+[20:35:59] ______________________________________
+
+[20:35:59]  Regular Expression Plugin v0.2.1 loaded
+[20:35:59] ______________________________________
+
+[20:35:59]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:35:59] ______________________________________
+
+[20:35:59]   Loaded.
+[20:35:59]  Loading plugin: mysql
+[20:35:59]  >> plugin.mysql: R39-6 successfully loaded.
+[20:35:59]   Loaded.
+[20:35:59]  Loading plugin: sscanf
+[20:35:59] 
+
+[20:35:59]  ===============================
+
+[20:35:59]       sscanf plugin loaded.     
+
+[20:35:59]          Version:  2.8.1        
+
+[20:35:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:35:59]  ===============================
+
+[20:35:59]   Loaded.
+[20:35:59]  Loading plugin: crashdetect
+[20:35:59]   CrashDetect v4.18.1 is OK.
+[20:35:59]   Loaded.
+[20:35:59]  Loading plugin: streamer
+[20:35:59] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[20:35:59]   Loaded.
+[20:35:59]  Loading plugin: Whirlpool
+[20:35:59]  
+[20:35:59]  ==================
+[20:35:59]  
+[20:35:59]   Whirlpool loaded
+[20:35:59]  
+[20:35:59]  ==================
+[20:35:59]  
+[20:35:59]   Loaded.
+[20:35:59]  Loaded 6 plugins.
+
+[20:35:59] 
+[20:35:59] Filterscripts
+[20:35:59] ---------------
+[20:35:59]   Loaded 0 filterscripts.
+
+[20:35:59]  
+[20:35:59]  
+[20:35:59] [MYSQL] Succesfuly connected!
+[20:35:59] 
+----------------------------------
+[20:35:59]  Beleaua RPG Gamemode by Gl3nutzu 
+[20:35:59] ----------------------------------
+
+[20:35:59] Number of vehicle models: 0
+[20:36:04] [connection] 127.0.0.1:65044 requests connection cookie.
+[20:36:05] [connection] incoming connection: 127.0.0.1:65044 id: 0
+[20:36:05] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[20:36:06] [part] Gl3nutzu has left the server (0:2)
+[20:36:41] [connection] 127.0.0.1:54657 requests connection cookie.
+[20:36:42] [connection] incoming connection: 127.0.0.1:54657 id: 0
+[20:36:42] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:08:59] filterscripts = ""  (string)
+[21:08:59] 
+[21:08:59] Server Plugins
+[21:08:59] --------------
+[21:08:59]  Loading plugin: regex
+[21:08:59] 
+
+[21:08:59] ______________________________________
+
+[21:08:59]  Regular Expression Plugin v0.2.1 loaded
+[21:08:59] ______________________________________
+
+[21:08:59]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:08:59] ______________________________________
+
+[21:08:59]   Loaded.
+[21:08:59]  Loading plugin: mysql
+[21:08:59]  >> plugin.mysql: R39-6 successfully loaded.
+[21:08:59]   Loaded.
+[21:08:59]  Loading plugin: sscanf
+[21:08:59] 
+
+[21:08:59]  ===============================
+
+[21:08:59]       sscanf plugin loaded.     
+
+[21:08:59]          Version:  2.8.1        
+
+[21:08:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:08:59]  ===============================
+
+[21:08:59]   Loaded.
+[21:08:59]  Loading plugin: crashdetect
+[21:08:59]   CrashDetect v4.18.1 is OK.
+[21:08:59]   Loaded.
+[21:08:59]  Loading plugin: streamer
+[21:08:59] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[21:08:59]   Loaded.
+[21:08:59]  Loading plugin: Whirlpool
+[21:08:59]  
+[21:08:59]  ==================
+[21:08:59]  
+[21:08:59]   Whirlpool loaded
+[21:08:59]  
+[21:08:59]  ==================
+[21:08:59]  
+[21:08:59]   Loaded.
+[21:08:59]  Loaded 6 plugins.
+
+[21:08:59] 
+[21:08:59] Filterscripts
+[21:08:59] ---------------
+[21:08:59]   Loaded 0 filterscripts.
+
+[21:08:59]  
+[21:08:59]  
+[21:09:00] [MYSQL] Succesfuly connected!
+[21:09:00] 
+----------------------------------
+[21:09:00]  Beleaua RPG Gamemode by Gl3nutzu 
+[21:09:00] ----------------------------------
+
+[21:09:00] Number of vehicle models: 0
+[21:09:48] [connection] 127.0.0.1:59240 requests connection cookie.
+[21:09:49] [connection] incoming connection: 127.0.0.1:59240 id: 0
+[21:09:49] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:59:32] filterscripts = ""  (string)
+[23:59:32] 
+[23:59:32] Server Plugins
+[23:59:32] --------------
+[23:59:32]  Loading plugin: regex
+[23:59:32] 
+
+[23:59:32] ______________________________________
+
+[23:59:32]  Regular Expression Plugin v0.2.1 loaded
+[23:59:32] ______________________________________
+
+[23:59:32]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:59:32] ______________________________________
+
+[23:59:32]   Loaded.
+[23:59:32]  Loading plugin: mysql
+[23:59:32]  >> plugin.mysql: R39-6 successfully loaded.
+[23:59:32]   Loaded.
+[23:59:32]  Loading plugin: sscanf
+[23:59:32] 
+
+[23:59:32]  ===============================
+
+[23:59:32]       sscanf plugin loaded.     
+
+[23:59:32]          Version:  2.8.1        
+
+[23:59:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:59:32]  ===============================
+
+[23:59:32]   Loaded.
+[23:59:32]  Loading plugin: crashdetect
+[23:59:32]   CrashDetect v4.18.1 is OK.
+[23:59:32]   Loaded.
+[23:59:32]  Loading plugin: streamer
+[23:59:32] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:59:32]   Loaded.
+[23:59:32]  Loading plugin: Whirlpool
+[23:59:32]  
+[23:59:32]  ==================
+[23:59:32]  
+[23:59:32]   Whirlpool loaded
+[23:59:32]  
+[23:59:32]  ==================
+[23:59:32]  
+[23:59:32]   Loaded.
+[23:59:32]  Loaded 6 plugins.
+
+[23:59:32] 
+[23:59:32] Filterscripts
+[23:59:32] ---------------
+[23:59:32]   Loaded 0 filterscripts.
+
+[23:59:32]  
+[23:59:32]  
+[23:59:32] [MYSQL] Succesfuly connected!
+[23:59:32] 
+----------------------------------
+[23:59:32]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:59:32] ----------------------------------
+
+[23:59:32] Number of vehicle models: 0
+[23:59:48] [connection] 127.0.0.1:61414 requests connection cookie.
+[23:59:49] [connection] incoming connection: 127.0.0.1:61414 id: 0
+[23:59:49] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[00:16:16] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:45:16] filterscripts = ""  (string)
+[23:45:16] 
+[23:45:16] Server Plugins
+[23:45:16] --------------
+[23:45:16]  Loading plugin: regex
+[23:45:16] 
+
+[23:45:16] ______________________________________
+
+[23:45:16]  Regular Expression Plugin v0.2.1 loaded
+[23:45:16] ______________________________________
+
+[23:45:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:45:16] ______________________________________
+
+[23:45:16]   Loaded.
+[23:45:16]  Loading plugin: mysql
+[23:45:17]  >> plugin.mysql: R39-6 successfully loaded.
+[23:45:17]   Loaded.
+[23:45:17]  Loading plugin: sscanf
+[23:45:17] 
+
+[23:45:17]  ===============================
+
+[23:45:17]       sscanf plugin loaded.     
+
+[23:45:17]          Version:  2.8.1        
+
+[23:45:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:45:17]  ===============================
+
+[23:45:17]   Loaded.
+[23:45:17]  Loading plugin: crashdetect
+[23:45:17]   CrashDetect v4.18.1 is OK.
+[23:45:17]   Loaded.
+[23:45:17]  Loading plugin: streamer
+[23:45:17] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:45:17]   Loaded.
+[23:45:17]  Loading plugin: Whirlpool
+[23:45:17]  
+[23:45:17]  ==================
+[23:45:17]  
+[23:45:17]   Whirlpool loaded
+[23:45:17]  
+[23:45:17]  ==================
+[23:45:17]  
+[23:45:17]   Loaded.
+[23:45:17]  Loaded 6 plugins.
+
+[23:45:17] 
+[23:45:17] Filterscripts
+[23:45:17] ---------------
+[23:45:17]   Loaded 0 filterscripts.
+
+[23:45:17]  
+[23:45:17]  
+[23:45:19] [MYSQL] Connection not found.
+[23:45:19] 
+----------------------------------
+[23:45:19]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:45:19] ----------------------------------
+
+[23:45:19] Number of vehicle models: 0
+[23:45:30] [connection] 127.0.0.1:65322 requests connection cookie.
+[23:45:31] [connection] incoming connection: 127.0.0.1:65322 id: 0
+[23:45:31] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[23:45:40] [part] Gl3nutzu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:08] filterscripts = ""  (string)
+[23:47:08] 
+[23:47:08] Server Plugins
+[23:47:08] --------------
+[23:47:08]  Loading plugin: regex
+[23:47:08] 
+
+[23:47:08] ______________________________________
+
+[23:47:08]  Regular Expression Plugin v0.2.1 loaded
+[23:47:08] ______________________________________
+
+[23:47:08]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:47:08] ______________________________________
+
+[23:47:08]   Loaded.
+[23:47:08]  Loading plugin: mysql
+[23:47:08]  >> plugin.mysql: R39-6 successfully loaded.
+[23:47:08]   Loaded.
+[23:47:08]  Loading plugin: sscanf
+[23:47:08] 
+
+[23:47:08]  ===============================
+
+[23:47:08]       sscanf plugin loaded.     
+
+[23:47:08]          Version:  2.8.1        
+
+[23:47:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:47:08]  ===============================
+
+[23:47:08]   Loaded.
+[23:47:08]  Loading plugin: crashdetect
+[23:47:08]   CrashDetect v4.18.1 is OK.
+[23:47:08]   Loaded.
+[23:47:08]  Loading plugin: streamer
+[23:47:08] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:47:08]   Loaded.
+[23:47:08]  Loading plugin: Whirlpool
+[23:47:08]  
+[23:47:08]  ==================
+[23:47:08]  
+[23:47:08]   Whirlpool loaded
+[23:47:08]  
+[23:47:08]  ==================
+[23:47:08]  
+[23:47:08]   Loaded.
+[23:47:08]  Loaded 6 plugins.
+
+[23:47:08] 
+[23:47:08] Filterscripts
+[23:47:08] ---------------
+[23:47:08]   Loaded 0 filterscripts.
+
+[23:47:09]  
+[23:47:09]  
+[23:47:09] [MYSQL] Succesfuly connected!
+[23:47:09] 
+----------------------------------
+[23:47:09]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:47:09] ----------------------------------
+
+[23:47:09] Number of vehicle models: 0
+[23:47:46] [connection] 127.0.0.1:54773 requests connection cookie.
+[23:47:47] [connection] incoming connection: 127.0.0.1:54773 id: 0
+[23:47:47] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:50:16] filterscripts = ""  (string)
+[23:50:16] 
+[23:50:16] Server Plugins
+[23:50:16] --------------
+[23:50:16]  Loading plugin: regex
+[23:50:16] 
+
+[23:50:16] ______________________________________
+
+[23:50:16]  Regular Expression Plugin v0.2.1 loaded
+[23:50:16] ______________________________________
+
+[23:50:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:50:16] ______________________________________
+
+[23:50:16]   Loaded.
+[23:50:16]  Loading plugin: mysql
+[23:50:16]  >> plugin.mysql: R39-6 successfully loaded.
+[23:50:16]   Loaded.
+[23:50:16]  Loading plugin: sscanf
+[23:50:16] 
+
+[23:50:16]  ===============================
+
+[23:50:16]       sscanf plugin loaded.     
+
+[23:50:16]          Version:  2.8.1        
+
+[23:50:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:50:16]  ===============================
+
+[23:50:16]   Loaded.
+[23:50:16]  Loading plugin: crashdetect
+[23:50:16]   CrashDetect v4.18.1 is OK.
+[23:50:16]   Loaded.
+[23:50:16]  Loading plugin: streamer
+[23:50:16] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:50:16]   Loaded.
+[23:50:16]  Loading plugin: Whirlpool
+[23:50:16]  
+[23:50:16]  ==================
+[23:50:16]  
+[23:50:16]   Whirlpool loaded
+[23:50:16]  
+[23:50:16]  ==================
+[23:50:16]  
+[23:50:16]   Loaded.
+[23:50:16]  Loaded 6 plugins.
+
+[23:50:16] 
+[23:50:16] Filterscripts
+[23:50:16] ---------------
+[23:50:16]   Loaded 0 filterscripts.
+
+[23:50:17]  
+[23:50:17]  
+[23:50:17] [MYSQL] Succesfuly connected!
+[23:50:17] 
+----------------------------------
+[23:50:17]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:50:17] ----------------------------------
+
+[23:50:17] Number of vehicle models: 0
+[23:50:36] [connection] 127.0.0.1:65317 requests connection cookie.
+[23:50:37] [connection] incoming connection: 127.0.0.1:65317 id: 0
+[23:50:37] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:57] filterscripts = ""  (string)
+[23:51:57] 
+[23:51:57] Server Plugins
+[23:51:57] --------------
+[23:51:57]  Loading plugin: regex
+[23:51:57] 
+
+[23:51:57] ______________________________________
+
+[23:51:57]  Regular Expression Plugin v0.2.1 loaded
+[23:51:57] ______________________________________
+
+[23:51:57]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:51:57] ______________________________________
+
+[23:51:57]   Loaded.
+[23:51:57]  Loading plugin: mysql
+[23:51:58]  >> plugin.mysql: R39-6 successfully loaded.
+[23:51:58]   Loaded.
+[23:51:58]  Loading plugin: sscanf
+[23:51:58] 
+
+[23:51:58]  ===============================
+
+[23:51:58]       sscanf plugin loaded.     
+
+[23:51:58]          Version:  2.8.1        
+
+[23:51:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:51:58]  ===============================
+
+[23:51:58]   Loaded.
+[23:51:58]  Loading plugin: crashdetect
+[23:51:58]   CrashDetect v4.18.1 is OK.
+[23:51:58]   Loaded.
+[23:51:58]  Loading plugin: streamer
+[23:51:58] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:51:58]   Loaded.
+[23:51:58]  Loading plugin: Whirlpool
+[23:51:58]  
+[23:51:58]  ==================
+[23:51:58]  
+[23:51:58]   Whirlpool loaded
+[23:51:58]  
+[23:51:58]  ==================
+[23:51:58]  
+[23:51:58]   Loaded.
+[23:51:58]  Loaded 6 plugins.
+
+[23:51:58] 
+[23:51:58] Filterscripts
+[23:51:58] ---------------
+[23:51:58]   Loaded 0 filterscripts.
+
+[23:51:58]  
+[23:51:58]  
+[23:51:58] [MYSQL] Succesfuly connected!
+[23:51:58] 
+----------------------------------
+[23:51:58]  Beleaua RPG Gamemode by Gl3nutzu 
+[23:51:58] ----------------------------------
+
+[23:51:58] Number of vehicle models: 0
+[23:52:35] [connection] 127.0.0.1:50419 requests connection cookie.
+[23:52:36] [connection] incoming connection: 127.0.0.1:50419 id: 0
+[23:52:37] [join] Gl3nutzu has joined the server (0:127.0.0.1)
+[23:58:43] [part] Gl3nutzu has left the server (0:1)

@@ -1,0 +1,7 @@
+[14:08:35 06/29/18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:08:36 06/29/18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:08:36 06/29/18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[14:08:36 06/29/18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[23:45:19 08/01/18] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_108'@'localhost' (using password: YES)
+[23:45:19 08/01/18] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_108'@'localhost' (using password: YES)
+[23:45:19 08/01/18] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'server_108'@'localhost' (using password: YES)
